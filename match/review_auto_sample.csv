@@ -1,0 +1,201 @@
+﻿group_id,state,company_raw,employees,public_date,method,match_score,flags,variant,matched_name,parent_name,ticker,cik,n_candidates,status
+CA-G12d9f2b0c9,CA,Warner Music Inc.,2,2025-11-04,exact,100.0,,Warner Music Inc,Warner Music Group Corp.,Warner Music Group Corp.,WMG,1319161.0,1,auto
+CA-G2779684d14,CA,Lockheed Martin,150,2024-04-11,exact,100.0,,Lockheed Martin,LOCKHEED MARTIN CORP,LOCKHEED MARTIN CORP,LMT,936468.0,1,confirmed
+CA-Ge11129a946,CA,Sunrun Inc.,53,2023-09-14,exact,100.0,,Sunrun Inc,Sunrun Inc.,Sunrun Inc.,RUN,1469367.0,1,auto
+WA-Gc1cbb8dbcc,WA,Sonoco Products Co.,34,2024-02-02,exact,100.0,,Sonoco Products Co,SONOCO PRODUCTS CO,SONOCO PRODUCTS CO,SON,91767.0,1,auto
+NY-Ged7fee4528,NY,"Pinnacle City Living, LLC.",138,2025-11-06,exact_sub,97.0,,"Pinnacle City Living, LLC","Pinnacle City Living, LLC",Cushman & Wakefield Ltd.,CWK,1628369.0,1,confirmed
+CA-Gc24a3a0157,CA,JELD-WEN Inc.,113,2024-04-25,exact,100.0,,JELD-WEN Inc,"JELD-WEN Holding, Inc.","JELD-WEN Holding, Inc.",JELD,1674335.0,1,confirmed
+CA-Gf131fa40ec,CA,"Virgin Galactic, LLC",78,2023-12-19,exact,100.0,,"Virgin Galactic, LLC","Virgin Galactic Holdings, Inc","Virgin Galactic Holdings, Inc",SPCE,1706946.0,1,auto
+TX-G1e2c728c2a,TX,International Paper Company(Edinburg),132,2025-05-14,exact,100.0,,International Paper Company (Edinburg W. Chapin),INTERNATIONAL PAPER CO /NEW/,INTERNATIONAL PAPER CO /NEW/,IP,51434.0,1,confirmed
+CA-Gdddde82cce,CA,"Gilead Sciences, Inc.",149,2025-04-01,exact,100.0,,"Gilead Sciences, Inc","GILEAD SCIENCES, INC.","GILEAD SCIENCES, INC.",GILD,882095.0,1,auto
+CA-G89dfb76d42,CA,Zenlen Inc. (Native),53,2026-05-05,exact_sub,97.0,sub_single_token,Zenlen Inc. (Native),"Zenlen, Inc.",PROCTER & GAMBLE Co,PG,80424.0,1,confirmed
+CA-G682b013425,CA,U.S. Bank,54,2023-09-28,exact_sub,97.0,"sub_light_mismatch,sub_generic_words",U.S. Bank,U.S. Bank National Association,US BANCORP DE,USB,36104.0,1,confirmed
+CA-G832f92f800,CA,Azure Acres Treatment Center - 2641,3,2025-09-18,fuzzy,91.80327868852459,fuzzy_sub,azure acres treatment center 2641,"Azure Acres Treatment Center, LLC dba Azure Acres Recovery Center","Acadia Healthcare Company, Inc.",ACHC,1520697.0,1,confirmed
+CA-G609fab8c42,CA,Atara Biotherapeutics,44,2024-01-30,exact,100.0,,Atara Biotherapeutics,"Atara Biotherapeutics, Inc.","Atara Biotherapeutics, Inc.",ATRA,1604464.0,1,auto
+WA-G104545c24d,WA,Amazon,172,2024-05-31,alias,99.0,,Amazon,amazon,AMAZON COM INC,AMZN,1018724.0,1,confirmed
+CA-G6b70e8b49a,CA,"Herbalife International of America, Inc.",161,2024-06-04,exact_sub,97.0,,"Herbalife International of America, Inc","Herbalife International of America, Inc.",HERBALIFE LTD.,HLF,1180262.0,1,auto
+CA-Gc0ff33af25,CA,"Marshalls of CA, LLC",126,2025-10-21,exact_sub,97.0,,"Marshalls of CA, LLC","Marshalls of CA, LLC",TJX COMPANIES INC /DE/,TJX,109198.0,1,confirmed
+NY-Gf88e6cf997,NY,"Meta Platforms, Inc. (formerly Facebook, Inc.)",343,2023-04-24,fein,100.0,,20-1665019,EIN 201665019,"Meta Platforms, Inc.",META,1326801.0,1,auto
+CA-Ga88e5fb800,CA,"FedEx Ground Package System, Inc.",149,2023-02-16,exact_sub,97.0,,"FedEx Ground Package System, Inc","FedEx Ground Package System, Inc.",FEDEX CORP,FDX,1048911.0,1,auto
+CA-Gb85e300449,CA,Walmart,106,2025-06-03,exact,100.0,,Walmart,Walmart Inc.,Walmart Inc.,WMT,104169.0,1,auto
+NY-G6deb32bdbe,NY,Masonite Corporation d/b/a Owens Corning Doors,46,2026-09-08,exact_sub,97.0,sub_single_token,Masonite Corporation,Masonite Corporation,Owens Corning,OC,1370946.0,1,confirmed
+TX-G6b10aca540,TX,Advanced Auto Parts # 8046 (Spring),11,2024-11-19,fuzzy,97.2972972972973,,advanced auto parts,ADVANCE AUTO PARTS INC,ADVANCE AUTO PARTS INC,AAP,1158449.0,1,confirmed
+CA-G3c1e1de9e8,CA,"Workday, Inc.",617,2025-02-06,exact,100.0,,"Workday, Inc","Workday, Inc.","Workday, Inc.",WDAY,1327811.0,1,auto
+WA-Gca60880290,WA,Jack in the Box,14,2026-04-27,exact,100.0,,Jack in the Box,JACK IN THE BOX INC,JACK IN THE BOX INC,JACK,807882.0,1,auto
+NY-Gbf91e60a7d,NY,"Enzo Clinical Labs, Inc.",247,2023-04-24,fein,100.0,,20-1665019,EIN 201665019,"Meta Platforms, Inc.",META,1326801.0,1,auto
+NY-G7339095603,NY,"Barrette Outdoor Living, Inc.",93,2025-02-19,exact_sub,97.0,,"Barrette Outdoor Living, Inc","Barrette Outdoor Living (Trading as Boyle Transportation Services, LLC and Barrette Logistics, Inc.)",CRH PUBLIC LTD CO,CRH,849395.0,1,auto
+CA-G4ba7680118,CA,International Business Machines Corporation,75,2025-11-06,exact,100.0,,International Business Machines Corporation,INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL BUSINESS MACHINES CORP,IBM,51143.0,1,auto
+CA-G502ec10fa7,CA,"Sutro Biopharma, Inc.",54,2025-10-02,exact,100.0,,"Sutro Biopharma, Inc","SUTRO BIOPHARMA, INC.","SUTRO BIOPHARMA, INC.",STRO,1382101.0,1,auto
+CA-G4bfcba2ce7,CA,"Meta Platforms, Inc.",272,2026-01-22,exact,100.0,,"Meta Platforms, Inc","Meta Platforms, Inc.","Meta Platforms, Inc.",META,1326801.0,1,auto
+CA-G98364c402a,CA,"Constellation Brands, Inc.",7,2026-04-28,exact,100.0,,"Constellation Brands, Inc","CONSTELLATION BRANDS, INC.","CONSTELLATION BRANDS, INC.",STZ,16918.0,1,confirmed
+WA-Ga1ccc0ed9f,WA,"Atlassian US, Inc.",63,2026-03-11,exact,100.0,,"Atlassian US, Inc",Atlassian Corp,Atlassian Corp,TEAM,1650372.0,1,confirmed
+CA-G936f713add,CA,"J.B. Hunt Transport, Inc.",127,2023-09-19,exact_sub,97.0,,"J.B. Hunt Transport, Inc","J.B. Hunt Transport, Inc., a Georgia corporation",HUNT J B TRANSPORT SERVICES INC,JBHT,728535.0,1,auto
+CA-Gd2086778e9,CA,Coherent Corp.,196,2023-06-06,exact,100.0,,Coherent Corp,COHERENT CORP.,COHERENT CORP.,COHR,820318.0,1,auto
+TX-Ge43f83a28b,TX,Raytheon Technologies,27,2023-09-12,exact_sub,97.0,,Raytheon Technologies,Raytheon Technologies Corporation,RTX Corp,RTX,101829.0,1,confirmed
+CA-G0ddbd33bb3,CA,CVS,4,2025-03-20,alias,99.0,,CVS,cvs,CVS HEALTH Corp,CVS,64803.0,1,auto
+CA-G8ecd836afc,CA,Qualcomm Incorporated,1258,2023-11-23,exact,100.0,,Qualcomm Incorporated,QUALCOMM INC/DE,QUALCOMM INC/DE,QCOM,804328.0,1,auto
+CA-G9f4b70337e,CA,Qualcomm Incorporated,499,2023-06-15,exact,100.0,,Qualcomm Incorporated,QUALCOMM INC/DE,QUALCOMM INC/DE,QCOM,804328.0,1,auto
+CA-G52d82a6ee9,CA,"Gilead Sciences, Inc.",51,2026-03-31,exact,100.0,,"Gilead Sciences, Inc","GILEAD SCIENCES, INC.","GILEAD SCIENCES, INC.",GILD,882095.0,1,auto
+CA-Gd121c001dd,CA,Six Flags Entertainment Corporation,184,2025-09-09,exact,100.0,,Six Flags Entertainment Corporation,Six Flags Entertainment Corporation/NEW,Six Flags Entertainment Corporation/NEW,FUN,1999001.0,1,auto
+CA-G71dd25ab4e,CA,Warner Music Inc.,56,2025-08-19,exact,100.0,,Warner Music Inc,Warner Music Group Corp.,Warner Music Group Corp.,WMG,1319161.0,1,auto
+TX-G2187bc477b,TX,Westlake Royal Building Products,260,2024-05-02,exact_sub,97.0,,Westlake Royal Building Products,Westlake Royal Building Products (USA) Inc.,WESTLAKE CORP,WLK,1262823.0,1,confirmed
+CA-G44269ca4f8,CA,"Too Faced Cosmetics, LLC",22,2023-06-29,exact_sub,97.0,sub_maybe_acquired_later,"Too Faced Cosmetics, LLC","Too Faced Cosmetics, LLC",ESTEE LAUDER COMPANIES INC,EL,1001250.0,1,confirmed
+CA-Gbc8db57e26,CA,AT&T,15,2024-12-05,exact,100.0,,AT&T,AT&T INC.,AT&T INC.,T,732717.0,1,auto
+CA-G4a56cccb56,CA,"GXO Logistics Supply Chain, Inc.",16,2025-03-04,exact_sub,97.0,,"GXO Logistics Supply Chain, Inc","GXO Logistics Supply Chain, Inc.","GXO Logistics, Inc.",GXO,1852244.0,1,auto
+CA-Gf3df73e404,CA,"Ginkgo Bioworks, Inc.",34,2024-06-20,exact,100.0,,"Ginkgo Bioworks, Inc","Ginkgo Bioworks Holdings, Inc.","Ginkgo Bioworks Holdings, Inc.",DNA,1830214.0,1,auto
+NY-G0c0a478967,NY,Morgan Stanley,31,2026-01-23,exact,100.0,,Morgan Stanley,MORGAN STANLEY,MORGAN STANLEY,MS,895421.0,1,confirmed
+CA-G5303d40665,CA,"NBC Manteca Merchants, Inc.",68,2026-05-19,exact_sub,97.0,,"NBC Manteca Merchants, Inc","NBC Manteca Merchants, Inc.",TJX COMPANIES INC /DE/,TJX,109198.0,1,auto
+CA-Ge291688eef,CA,Target Corporation,85,2024-08-01,exact,100.0,,Target Corporation,TARGET CORP,TARGET CORP,TGT,27419.0,1,auto
+CA-G1c0952392d,CA,"Mattel, Inc.",65,2026-03-26,exact,100.0,,"Mattel, Inc",MATTEL INC /DE/,MATTEL INC /DE/,MAT,63276.0,1,auto
+CA-G8fa278643b,CA,Raytheon,55,2026-03-03,alias,99.0,,Raytheon,raytheon,RTX Corp,RTX,101829.0,1,auto
+CA-G1453492593,CA,"Gilead Sciences, Inc.",104,2024-11-14,exact,100.0,,"Gilead Sciences, Inc","GILEAD SCIENCES, INC.","GILEAD SCIENCES, INC.",GILD,882095.0,1,auto
+WA-G6679b3e23b,WA,Starbucks,224,2026-08-20,exact,100.0,,Starbucks,STARBUCKS CORP,STARBUCKS CORP,SBUX,829224.0,1,confirmed
+CA-G28f96040be,CA,"Roku, Inc.",135,2023-10-26,exact,100.0,,"Roku, Inc","ROKU, INC","ROKU, INC",ROKU,1428439.0,1,auto
+TX-Gb3e6321545,TX,Tesla,2688,2024-04-23,exact,100.0,,Tesla,"Tesla, Inc.","Tesla, Inc.",TSLA,1318605.0,1,auto
+NY-G54fcab8118,NY,"Rapid Reliable Care by DocGo, LLC dba Rapid Reliable Care; DocGo",360,2025-03-14,exact_sub,97.0,,"Rapid Reliable Care by DocGo, LLC","Rapid Reliable Care by DocGo, LLC",DocGo Inc.,DCGO,1822359.0,1,auto
+CA-Gd762bd7a0a,CA,"QG Printing II, LLC",56,2024-01-18,exact_sub,97.0,,"QG Printing II, LLC",QG Printing II LLC,"Quad/Graphics, Inc.",QUAD,1481792.0,1,auto
+CA-Gbf08ae818c,CA,KBR Services LLC,758,2026-03-10,alias,99.0,,KBR Services LLC,kbr services,"KBR, INC.",KBR,1357615.0,1,confirmed
+CA-G96ba71d1a2,CA,"Charles River Laboratories, Inc.",55,2023-08-29,exact_sub,97.0,,"Charles River Laboratories, Inc","Charles River Laboratories, Inc.","CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",CRL,1100682.0,1,auto
+CA-Ge46fb8b4b9,CA,"Oracle America, Inc.",188,2025-08-14,alias,99.0,,"Oracle America, Inc",oracle america,ORACLE CORP,ORCL,1341439.0,1,auto
+CA-G24f8f2a4bf,CA,BrightDrop,6,2024-01-25,exact_sub,97.0,sub_single_token,BrightDrop,BrightDrop LLC,General Motors Co,GM,1467858.0,1,confirmed
+CA-G8dbd3dadfe,CA,Intel Corporation,57,2023-05-09,exact,100.0,,Intel Corporation,INTEL CORP,INTEL CORP,INTC,50863.0,1,auto
+TX-G56981ae666,TX,Power Plug Inc. (Houston Manufacturing Company),74,2026-01-26,fuzzy,100.0,,power plug,PLUG POWER INC,PLUG POWER INC,PLUG,1093691.0,1,auto
+CA-G5063765a4e,CA,"Herbalife International of America, Inc.",135,2024-05-16,exact_sub,97.0,,"Herbalife International of America, Inc","Herbalife International of America, Inc.",HERBALIFE LTD.,HLF,1180262.0,1,auto
+CA-G03572e932f,CA,Walmart,348,2024-05-21,exact,100.0,,Walmart,Walmart Inc.,Walmart Inc.,WMT,104169.0,1,auto
+CA-Gc8dc88453c,CA,Silgan Containers,114,2024-08-27,exact_sub,97.0,,Silgan Containers,Silgan Containers LLC,SILGAN HOLDINGS INC,SLGN,849869.0,1,auto
+CA-G177fffa759,CA,United Natural Foods West,11,2026-06-18,exact_sub,97.0,,United Natural Foods West,"United Natural Foods West, Inc.",UNITED NATURAL FOODS INC,UNFI,1020859.0,1,confirmed
+CA-Gcc72e7ee83,CA,MasterBrand Cabinets LLC,90,2023-07-13,exact_sub,97.0,,MasterBrand Cabinets LLC,MasterBrand Cabinets LLC,"MasterBrand, Inc.",MBC,1941365.0,1,auto
+CA-G624a0bfde8,CA,Atria Wealth Solutions,82,2025-05-06,exact_sub,97.0,,Atria Wealth Solutions,"Atria Wealth Solutions, Inc.",LPL Financial Holdings Inc.,LPLA,1397911.0,1,auto
+TX-Gdce895f12c,TX,Central Garden & Pet (Manufacturing),80,2023-05-22,exact,100.0,,Central Garden & Pet (Manufacturing),CENTRAL GARDEN & PET CO,CENTRAL GARDEN & PET CO,CENT,887733.0,1,auto
+CA-G245865c15b,CA,Intel Corporation,496,2025-07-15,exact,100.0,,Intel Corporation,INTEL CORP,INTEL CORP,INTC,50863.0,1,auto
+WA-G827d5a040b,WA,Microsoft,878,2023-01-18,exact,100.0,,Microsoft,MICROSOFT CORP,MICROSOFT CORP,MSFT,789019.0,1,auto
+TX-G4115bc4b0c,TX,Carling Technologies,83,2023-08-25,exact_sub,97.0,,Carling Technologies,Carling Technologies GmbH,LITTELFUSE INC /DE,LFUS,889331.0,1,auto
+CA-Gf22ddf1546,CA,Phillips 66,16,2026-04-14,exact,100.0,,Phillips 66,Phillips 66,Phillips 66,PSX,1534701.0,1,auto
+WA-G66d512c686,WA,"Genie Industries, Inc. / Terex USA, LLC",117,2026-05-21,exact,100.0,,"Terex USA, LLC",TEREX CORP,TEREX CORP,TEX,97216.0,1,auto
+NY-Gd404424eea,NY,"Tesla, Inc.",26,2024-05-01,fein,100.0,,91-2197729,EIN 912197729,"Tesla, Inc.",TSLA,1318605.0,1,auto
+NY-G158670188a,NY,"Meta Platforms, Inc. (formerly Facebook, Inc.)",548,2023-05-30,fein,100.0,,20-1665019,EIN 201665019,"Meta Platforms, Inc.",META,1326801.0,1,auto
+CA-G3e0f876954,CA,AppLovin Corporation,120,2024-11-14,exact,100.0,,AppLovin Corporation,AppLovin Corp,AppLovin Corp,APP,1751008.0,1,auto
+CA-Gc5452bde9b,CA,"Motorcar Parts of America, Inc.",94,2024-07-04,exact,100.0,,"Motorcar Parts of America, Inc",MOTORCAR PARTS OF AMERICA INC,MOTORCAR PARTS OF AMERICA INC,MPAA,918251.0,1,confirmed
+NY-G5525c226be,NY,Google,887,2023-01-25,alias,99.0,,Google,google,Alphabet Inc.,GOOGL,1652044.0,1,auto
+TX-G0517ff3caa,TX,Accenture LLP (Austin),549,2023-05-16,exact,100.0,,Accenture LLP (Austin),Accenture plc,Accenture plc,ACN,1467373.0,1,confirmed
+CA-G44ce48aab4,CA,"Salesforce, Inc.",258,2023-02-16,exact,100.0,,"Salesforce, Inc","Salesforce, Inc.","Salesforce, Inc.",CRM,1108524.0,1,auto
+WA-Gdf04593792,WA,Verizon,54,2026-07-16,alias,99.0,,Verizon,verizon,VERIZON COMMUNICATIONS INC,VZ,732712.0,1,auto
+NY-G45c1f3dd74,NY,The Coca-Cola Company,41,2026-04-21,exact,100.0,,The Coca-Cola Company,COCA COLA CO,COCA COLA CO,KO,21344.0,1,auto
+CA-Ge32cc1d3b6,CA,Laboratory Corporation of America Holdings,81,2024-05-16,exact_sub,97.0,sub_light_mismatch,Laboratory Corporation of America Holdings,Laboratory Corporation of America,LABCORP HOLDINGS INC.,LH,920148.0,1,confirmed
+CA-G6a8df940e4,CA,"AFC Cable Systems, Inc.",54,2025-11-06,exact_sub,97.0,,"AFC Cable Systems, Inc","AFC Cable Systems, Inc.",Atkore Inc.,ATKR,1666138.0,1,auto
+WA-Gfb3407c0df,WA,"Jabil, Inc.",120,2024-03-01,exact,100.0,,"Jabil, Inc",JABIL INC,JABIL INC,JBL,898293.0,1,auto
+CA-G21188565d5,CA,"Constellation Brands, Inc.",6,2024-07-04,exact,100.0,,"Constellation Brands, Inc","CONSTELLATION BRANDS, INC.","CONSTELLATION BRANDS, INC.",STZ,16918.0,1,auto
+CA-G6347e1355f,CA,"Becton, Dickinson and Company",111,2024-01-23,exact,100.0,,"Becton, Dickinson and Company",BECTON DICKINSON & CO,BECTON DICKINSON & CO,BDX,10795.0,1,auto
+CA-G178c272ef5,CA,"10x Genomics, Inc. (5500)",93,2025-05-13,exact,100.0,,"10x Genomics, Inc. (5500)","10x Genomics, Inc.","10x Genomics, Inc.",TXG,1770787.0,1,auto
+WA-G992cae4a26,WA,"Expedia, Inc.",58,2026-09-22,exact,100.0,,"Expedia, Inc","Expedia Group, Inc.","Expedia Group, Inc.",EXPE,1324424.0,1,auto
+CA-Gf54c693b0f,CA,Peloton Interactive Inc.,21,2023-08-22,exact,100.0,,Peloton Interactive Inc,"PELOTON INTERACTIVE, INC.","PELOTON INTERACTIVE, INC.",PTON,1639825.0,1,confirmed
+CA-G47bef1ffca,CA,AT&T,47,2025-03-18,exact,100.0,,AT&T,AT&T INC.,AT&T INC.,T,732717.0,1,auto
+CA-G625557a6f6,CA,Qualcomm Incorporated,79,2023-02-28,exact,100.0,,Qualcomm Incorporated,QUALCOMM INC/DE,QUALCOMM INC/DE,QCOM,804328.0,1,auto
+CA-Ga8a7b0916a,CA,"Beachbody, LLC",160,2024-10-03,exact,100.0,,"Beachbody, LLC","Beachbody Company, Inc.","Beachbody Company, Inc.",BODI,1826889.0,1,auto
+CA-Gd58c7664a2,CA,"Janssen Pharmaceuticals, Inc.",1,2023-01-12,exact_sub,97.0,,"Janssen Pharmaceuticals, Inc","Janssen Pharmaceuticals, Inc.",JOHNSON & JOHNSON,JNJ,200406.0,1,auto
+WA-G1b6a325f60,WA,"Expedia, Inc.",2,2024-04-22,exact,100.0,,"Expedia, Inc","Expedia Group, Inc.","Expedia Group, Inc.",EXPE,1324424.0,1,auto
+CA-G2e891082f2,CA,"Fastly, Inc.",52,2024-08-13,exact,100.0,,"Fastly, Inc","Fastly, Inc.","Fastly, Inc.",FSLY,1517413.0,1,auto
+TX-G5f2ca63074,TX,Genpact LLC,964,2023-01-19,exact,100.0,,Genpact LLC,Genpact LTD,Genpact LTD,G,1398659.0,1,auto
+CA-G326382753c,CA,"Ryder Integrated Logistics, Inc.",19,2023-01-12,exact_sub,97.0,,"Ryder Integrated Logistics, Inc","Ryder Integrated Logistics, Inc . (1)",RYDER SYSTEM INC,R,85961.0,1,auto
+CA-Ga6c18f4b48,CA,"L3 Technologies, Inc., a wholly owned subsidiary of L3Harris Technologies",134,2023-09-19,exact_parent,98.0,,L3Harris Technologies,"L3HARRIS TECHNOLOGIES, INC. /DE/","L3HARRIS TECHNOLOGIES, INC. /DE/",LHX,202058.0,1,auto
+CA-Gd3c8492f6c,CA,"Aveanna Healtcare, LLC",3,2024-06-27,fuzzy,97.14285714285714,,aveanna healtcare,"Aveanna Healthcare Holdings, Inc.","Aveanna Healthcare Holdings, Inc.",AVAH,1832332.0,1,auto
+CA-G10a85b9816,CA,Nektar Therapeutics,72,2023-05-02,exact,100.0,,Nektar Therapeutics,NEKTAR THERAPEUTICS,NEKTAR THERAPEUTICS,NKTR,906709.0,1,auto
+CA-G5666d60732,CA,Intel Corporation,78,2023-07-13,exact,100.0,,Intel Corporation,INTEL CORP,INTEL CORP,INTC,50863.0,1,auto
+CA-G04e242df4c,CA,Verizon,193,2025-11-25,alias,99.0,,Verizon,verizon,VERIZON COMMUNICATIONS INC,VZ,732712.0,1,confirmed
+TX-G0a3546178b,TX,International Paper Company(N. Closner Blvd.),137,2025-07-10,exact,100.0,,International Paper Company(N. 26th),INTERNATIONAL PAPER CO /NEW/,INTERNATIONAL PAPER CO /NEW/,IP,51434.0,1,auto
+TX-G95ee8ffadf,TX,Expedia Group Inc. (Austin),84,2024-04-23,exact,100.0,,Expedia Group Inc. (Austin),"Expedia Group, Inc.","Expedia Group, Inc.",EXPE,1324424.0,1,confirmed
+CA-G569acae383,CA,Thermo Fisher Scientific,230,2023-02-07,exact,100.0,,Thermo Fisher Scientific,THERMO FISHER SCIENTIFIC INC.,THERMO FISHER SCIENTIFIC INC.,TMO,97745.0,1,auto
+CA-G73cd0a5d53,CA,Broadcom Inc.,247,2025-10-21,exact,100.0,,Broadcom Inc,Broadcom Inc.,Broadcom Inc.,AVGO,1730168.0,1,auto
+TX-G348b5b1219,TX,Albertsons #106 (Euless),82,2026-03-25,alias,99.0,,Albertsons #106 (Euless),albertsons,"Albertsons Companies, Inc.",ACI,1646972.0,1,confirmed
+CA-Gb4acd70fc9,CA,"Dropbox, Inc.",182,2023-05-11,exact,100.0,,"Dropbox, Inc","DROPBOX, INC.","DROPBOX, INC.",DBX,1467623.0,1,confirmed
+CA-G489d1e6a0b,CA,Microsoft,46,2023-02-09,exact,100.0,,Microsoft,MICROSOFT CORP,MICROSOFT CORP,MSFT,789019.0,1,auto
+CA-Gfc399bbe98,CA,Pitney Bowes Inc.,11,2024-08-15,exact,100.0,,Pitney Bowes Inc,PITNEY BOWES INC /DE/,PITNEY BOWES INC /DE/,PBI,78814.0,1,auto
+CA-Gb92e37f588,CA,CVS,7,2024-12-19,alias,99.0,,CVS,cvs,CVS HEALTH Corp,CVS,64803.0,1,auto
+CA-G2407f5d72a,CA,"DePuy Synthes Products, Inc.",25,2024-01-23,exact_sub,97.0,,"DePuy Synthes Products, Inc","DePuy Synthes Products, Inc.",JOHNSON & JOHNSON,JNJ,200406.0,1,auto
+NY-G3b70174b7c,NY,"Goldman, Sachs & Co., LLC",548,2023-01-17,exact,100.0,,"Goldman, Sachs & Co., LLC",GOLDMAN SACHS GROUP INC,GOLDMAN SACHS GROUP INC,GS,886982.0,1,auto
+TX-Ga540cf5d4a,TX,CVS Health (Richardson),167,2023-08-23,exact,100.0,,CVS Health (Richardson),CVS HEALTH Corp,CVS HEALTH Corp,CVS,64803.0,1,auto
+CA-Ga86d436f70,CA,UPS,445,2024-11-19,alias,99.0,,UPS,ups,UNITED PARCEL SERVICE INC,UPS,1090727.0,1,confirmed
+CA-Ge77fc2dc0b,CA,"Natera, Inc.",59,2023-03-21,exact,100.0,,"Natera, Inc","Natera, Inc.","Natera, Inc.",NTRA,1604821.0,1,auto
+CA-G3418329f05,CA,Pitney Bowes Inc.,3,2024-07-23,exact,100.0,,Pitney Bowes Inc,PITNEY BOWES INC /DE/,PITNEY BOWES INC /DE/,PBI,78814.0,1,auto
+CA-Ga7a8ebef93,CA,"Ryder Integrated Logistics, Inc.",157,2024-05-28,exact_sub,97.0,,"Ryder Integrated Logistics, Inc","Ryder Integrated Logistics, Inc . (1)",RYDER SYSTEM INC,R,85961.0,1,auto
+CA-Ga488708dcc,CA,"Herbalife International of America, Inc.",78,2023-03-16,exact_sub,97.0,,"Herbalife International of America, Inc","Herbalife International of America, Inc.",HERBALIFE LTD.,HLF,1180262.0,1,auto
+CA-Ge5a9f21fb0,CA,"ChargePoint, Inc.",116,2024-01-30,exact,100.0,,"ChargePoint, Inc","ChargePoint Holdings, Inc.","ChargePoint Holdings, Inc.",CHPT,1777393.0,1,auto
+NY-G57cf3fac25,NY,Novanta Corporation,49,2026-07-24,exact,100.0,,Novanta Corporation,NOVANTA INC,NOVANTA INC,NOVT,1076930.0,1,auto
+CA-Gff56f89760,CA,Accenture,240,2023-08-29,exact,100.0,,Accenture,Accenture plc,Accenture plc,ACN,1467373.0,1,auto
+CA-G350b99c548,CA,"Restoration Hardware, Inc.",58,2023-03-30,exact_sub,97.0,,"Restoration Hardware, Inc","Restoration Hardware, Inc.",RH,RH,1528849.0,1,auto
+WA-G82d4e01032,WA,"Compass Group USA, Inc.",68,2023-03-08,exact,100.0,,"Compass Group USA, Inc","Compass, Inc.","Compass, Inc.",COMP,1563190.0,1,auto
+CA-Ga900e9e273,CA,Silgan Containers,150,2025-08-28,exact_sub,97.0,,Silgan Containers,Silgan Containers LLC,SILGAN HOLDINGS INC,SLGN,849869.0,1,auto
+TX-G13df98b273,TX,"Charter Communications,LLC",112,2026-07-08,exact,100.0,,"Charter Communications,LLC","CHARTER COMMUNICATIONS, INC. /MO/","CHARTER COMMUNICATIONS, INC. /MO/",CHTR,1091667.0,1,auto
+CA-G411e27ce3e,CA,Cruise LLC,15,2025-03-20,alias,99.0,,Cruise LLC,cruise,General Motors Co,GM,1467858.0,1,confirmed
+NY-G89237abcfe,NY,Hyatt Corporation,52,2026-08-04,exact_sub,97.0,"franchise_brand,sub_single_token,sub_generic_words",Hyatt Corporation,HYATT CORPORATION,Hyatt Hotels Corp,H,1468174.0,1,confirmed
+CA-G5691e31069,CA,Amazon,113,2024-01-30,alias,99.0,,Amazon,amazon,AMAZON COM INC,AMZN,1018724.0,1,auto
+CA-Gc46dcbdf56,CA,"Gatan, Inc.",96,2025-07-17,exact_sub,97.0,sub_single_token,"Gatan, Inc","Gatan, Inc.",AMETEK INC/,AME,1037868.0,1,confirmed
+WA-G3cb0cb8731,WA,Uber Technologies Inc,93,2026-09-02,exact,100.0,,Uber Technologies Inc,"Uber Technologies, Inc","Uber Technologies, Inc",UBER,1543151.0,1,auto
+NY-Gfcb4ce1bcc,NY,Charter Communications LLC,273,2023-08-15,exact,100.0,,Charter Communications LLC,"CHARTER COMMUNICATIONS, INC. /MO/","CHARTER COMMUNICATIONS, INC. /MO/",CHTR,1091667.0,1,auto
+TX-Gd2aae8ac74,TX,Nucor Steel (Longview),173,2023-06-14,exact_sub,97.0,sub_maybe_acquired_later,Nucor Steel (Longview),Nucor Steel ULC,NUCOR CORP,NUE,73309.0,1,confirmed
+CA-G9974dfd07c,CA,"AeroVironment, Inc.",17,2023-03-02,exact,100.0,,"AeroVironment, Inc",AeroVironment Inc,AeroVironment Inc,AVAV,1368622.0,1,confirmed
+CA-G44b729aa4c,CA,UPS,288,2025-03-04,alias,99.0,,UPS,ups,UNITED PARCEL SERVICE INC,UPS,1090727.0,1,auto
+CA-G05cd56fab8,CA,"American Eagle Outfitters, Inc.",108,2026-02-03,exact,100.0,,"American Eagle Outfitters, Inc",AMERICAN EAGLE OUTFITTERS INC,AMERICAN EAGLE OUTFITTERS INC,AEO,919012.0,1,auto
+CA-G6868440300,CA,Wabash National LP,100,2026-01-15,exact,100.0,,Wabash National LP,WABASH NATIONAL Corp,WABASH NATIONAL Corp,WNC,879526.0,1,auto
+CA-G60b82f03c7,CA,"Jabil, Inc.",21,2025-12-09,exact,100.0,,"Jabil, Inc",JABIL INC,JABIL INC,JBL,898293.0,1,auto
+NY-Geddbd0bf53,NY,"GXO Warehouse Company, Inc.",41,2024-10-02,exact_sub,97.0,,"GXO Warehouse Company, Inc","GXO Warehouse Company, Inc.","GXO Logistics, Inc.",GXO,1852244.0,1,auto
+WA-Gfb9546fce3,WA,Broadcom Inc.,158,2023-11-27,exact,100.0,,Broadcom Inc,Broadcom Inc.,Broadcom Inc.,AVGO,1730168.0,1,confirmed
+CA-G297cf84fae,CA,Cruise LLC,739,2025-02-06,alias,99.0,,Cruise LLC,cruise,General Motors Co,GM,1467858.0,1,auto
+WA-Gdf334ee1a7,WA,Microsoft,830,2025-07-02,exact,100.0,,Microsoft,MICROSOFT CORP,MICROSOFT CORP,MSFT,789019.0,1,auto
+NY-G19e8e36145,NY,Krispy Kreme Doughnut Corporation,52,2026-04-14,exact_sub,97.0,,Krispy Kreme Doughnut Corporation,Krispy Kreme Doughnut Corporation,"Krispy Kreme, Inc.",DNUT,1857154.0,1,auto
+CA-G32182e1fe2,CA,"Xilinx, Inc.",72,2024-11-14,exact_sub,97.0,sub_single_token,"Xilinx, Inc","Xilinx, Inc.",ADVANCED MICRO DEVICES INC,AMD,2488.0,1,confirmed
+WA-Gb05713e416,WA,Jack in the Box,24,2026-08-12,exact,100.0,,Jack in the Box,JACK IN THE BOX INC,JACK IN THE BOX INC,JACK,807882.0,1,confirmed
+WA-G48dfd5e6c5,WA,Walmart,62,2024-01-19,exact,100.0,,Walmart,Walmart Inc.,Walmart Inc.,WMT,104169.0,1,auto
+CA-G91986b6abb,CA,Finance of America,48,2023-03-07,exact_sub,97.0,"sub_light_mismatch,sub_generic_words",Finance of America,Finance of America Holdings LLC,Finance of America Companies Inc.,FOA,1828937.0,1,confirmed
+CA-Gdd74ca934e,CA,"Herbalife International of America, Inc.",163,2024-06-18,exact_sub,97.0,,"Herbalife International of America, Inc","Herbalife International of America, Inc.",HERBALIFE LTD.,HLF,1180262.0,1,auto
+WA-G92ae1dde89,WA,Amazon,401,2026-01-28,alias,99.0,,Amazon,amazon,AMAZON COM INC,AMZN,1018724.0,1,auto
+TX-G78a43b701d,TX,Fifth Third Bank,115,2026-07-10,exact_sub,97.0,sub_light_mismatch,Fifth Third Bank,"Fifth Third Bank, National Association",FIFTH THIRD BANCORP,FITB,35527.0,1,confirmed
+CA-G93d14edfe6,CA,Amazon,555,2025-10-07,alias,99.0,,Amazon,amazon,AMAZON COM INC,AMZN,1018724.0,1,confirmed
+CA-Ge380e11b7b,CA,Paramount Skydance Corporation (Gower),197,2025-11-11,exact,100.0,,Paramount Skydance Corporation (Gower),Paramount Skydance Corp,Paramount Skydance Corp,PSKY,2041610.0,1,auto
+CA-G276d5344cc,CA,Coherent Corp.,61,2024-04-16,exact,100.0,,Coherent Corp,COHERENT CORP.,COHERENT CORP.,COHR,820318.0,1,auto
+WA-G638324ba0d,WA,Pfizer,119,2024-04-03,exact,100.0,,Pfizer,PFIZER INC,PFIZER INC,PFE,78003.0,1,auto
+CA-Ga4f670cf8f,CA,Hunt & Sons LLC,95,2024-11-05,exact_sub,97.0,sub_maybe_acquired_later,Hunt & Sons LLC,Hunt & Sons LLC,Phillips 66,PSX,1534701.0,1,confirmed
+TX-G06f5ed7909,TX,Stitch Fix,558,2023-10-02,exact,100.0,,Stitch Fix,"Stitch Fix, Inc.","Stitch Fix, Inc.",SFIX,1576942.0,1,auto
+CA-G24bb91c8e5,CA,Intel Corporation,75,2024-05-02,exact,100.0,,Intel Corporation,INTEL CORP,INTEL CORP,INTC,50863.0,1,auto
+TX-G2ef83ef52c,TX,"Appfolio, Inc.",38,2023-08-18,exact,100.0,,"Appfolio, Inc",APPFOLIO INC,APPFOLIO INC,APPF,1433195.0,1,auto
+CA-Gb255dccfbc,CA,JPMorgan Chase,53,2026-04-09,exact,100.0,,JPMorgan Chase,JPMORGAN CHASE & CO,JPMORGAN CHASE & CO,JPM,19617.0,1,auto
+WA-G526be31c9f,WA,"Oracle America, Inc.",359,2026-09-14,alias,99.0,,"Oracle America, Inc",oracle america,ORACLE CORP,ORCL,1341439.0,1,auto
+CA-Ga43699512a,CA,Levi Strauss & Co.,146,2024-03-05,exact,100.0,,Levi Strauss & Co,LEVI STRAUSS & CO,LEVI STRAUSS & CO,LEVI,94845.0,1,auto
+CA-Gcacb362289,CA,Union Pacific,15,2024-06-04,exact,100.0,,Union Pacific,UNION PACIFIC CORP,UNION PACIFIC CORP,UNP,100885.0,1,auto
+NY-Gb54c86ef86,NY,"Old Navy, Inc.",95,2025-04-16,exact_sub,97.0,,"Old Navy, Inc","Old Navy (Apparel), LLC",GAP INC,GAP,39911.0,1,auto
+CA-Gc661b96dc0,CA,"Aramark Campus, LLC",94,2026-07-21,exact_sub,97.0,,"Aramark Campus, LLC","Aramark Campus, LLC",Aramark,ARMK,1584509.0,1,auto
+CA-G3bcad81b21,CA,"GXO Logistics Supply Chain, Inc",76,2024-05-14,exact_sub,97.0,,"GXO Logistics Supply Chain, Inc","GXO Logistics Supply Chain, Inc.","GXO Logistics, Inc.",GXO,1852244.0,1,auto
+WA-Gb5df3fff44,WA,Google,52,2026-08-05,alias,99.0,,Google,google,Alphabet Inc.,GOOGL,1652044.0,1,auto
+WA-G2d041f96c9,WA,Visa,70,2026-07-31,exact,100.0,,Visa,VISA INC.,VISA INC.,V,1403161.0,1,auto
+CA-G52bdf3caa7,CA,Verb Surgical Inc.,47,2023-03-07,exact_sub,97.0,,Verb Surgical Inc,Verb Surgical Inc.,JOHNSON & JOHNSON,JNJ,200406.0,1,auto
+TX-Gb5891cdaef,TX,ADT Solar (Dallas),53,2023-11-13,exact_sub,97.0,,ADT Solar (Dallas),ADT Solar LLC (1),ADT Inc.,ADT,1703056.0,1,auto
+TX-Gad5ecaf215,TX,JPMorgan Chase & Co.,244,2026-06-23,exact,100.0,,JPMorgan Chase & Co,JPMORGAN CHASE & CO,JPMORGAN CHASE & CO,JPM,19617.0,1,confirmed
+NY-Geb8c85ce43,NY,Meta,1160,2026-08-20,alias,99.0,,Meta,meta,"Meta Platforms, Inc.",META,1326801.0,1,auto
+CA-G0a2716021f,CA,Lam Research Corporation,161,2023-07-04,exact,100.0,,Lam Research Corporation,LAM RESEARCH CORP,LAM RESEARCH CORP,LRCX,707549.0,1,auto
+CA-Gbef63fb21e,CA,Straight Smile LLC dba Byte,72,2024-11-14,exact_sub,97.0,,Straight Smile LLC,"Straight Smile, LLC",DENTSPLY SIRONA Inc.,XRAY,818479.0,1,auto
+CA-Ge928a69d12,CA,Quanex Homeshield LLC,58,2024-01-23,exact_sub,97.0,sub_maybe_acquired_later,Quanex Homeshield LLC,Quanex Homeshield LLC,Quanex Building Products CORP,NX,1423221.0,1,confirmed
+NY-G5d3874e582,NY,Amazon (Western),542,2026-03-17,alias,99.0,,Amazon (Western),amazon,AMAZON COM INC,AMZN,1018724.0,1,auto
+CA-G40def1a375,CA,Silgan Containers,55,2026-07-30,exact_sub,97.0,,Silgan Containers,Silgan Containers LLC,SILGAN HOLDINGS INC,SLGN,849869.0,1,confirmed
+CA-G6485bbe6be,CA,Pfizer,56,2025-04-08,exact,100.0,,Pfizer,PFIZER INC,PFIZER INC,PFE,78003.0,1,confirmed
+CA-G54adefd091,CA,"Smashbox Beauty Cosmetics, Inc.",37,2023-06-29,exact_sub,97.0,sub_maybe_acquired_later,"Smashbox Beauty Cosmetics, Inc","Smashbox Beauty Cosmetics, Inc.",ESTEE LAUDER COMPANIES INC,EL,1001250.0,1,confirmed
+CA-G2cae56c898,CA,Sensata Technologies,57,2025-02-04,exact,100.0,,Sensata Technologies,Sensata Technologies Holding plc,Sensata Technologies Holding plc,ST,1477294.0,1,confirmed
+TX-Gdd21707e61,TX,Janus International Group,113,2026-02-04,exact,100.0,,Janus International Group,"Janus International Group, Inc.","Janus International Group, Inc.",JBI,1839839.0,1,auto
+WA-G714231db15,WA,T-Mobile,637,2026-02-02,exact,100.0,,T-Mobile,"T-Mobile US, Inc.","T-Mobile US, Inc.",TMUS,1283699.0,1,auto
+TX-Gdaf4e0d69c,TX,Regal Rexnord,78,2023-08-03,exact,100.0,,Regal Rexnord,REGAL REXNORD CORP,REGAL REXNORD CORP,RRX,82811.0,1,auto
+CA-Gb779a0ca31,CA,Twist Bioscience Corporation,212,2023-06-15,exact,100.0,,Twist Bioscience Corporation,Twist Bioscience Corp,Twist Bioscience Corp,TWST,1581280.0,1,auto
+CA-Gc1a580055e,CA,International Business Machines Corporation (IBM),47,2023-04-13,exact,100.0,,International Business Machines Corporation (IBM),INTERNATIONAL BUSINESS MACHINES CORP,INTERNATIONAL BUSINESS MACHINES CORP,IBM,51143.0,1,auto
+CA-Gc0c3a1f7a5,CA,"Lulus Fashion Lounge, LLC",83,2024-12-10,exact,100.0,,"Lulus Fashion Lounge, LLC","Lulu's Fashion Lounge Holdings, Inc.","Lulu's Fashion Lounge Holdings, Inc.",LVLU,1780201.0,1,auto
+CA-G345c537715,CA,"Vir Biotechnology, Inc.",141,2024-08-06,exact,100.0,,"Vir Biotechnology, Inc","Vir Biotechnology, Inc.","Vir Biotechnology, Inc.",VIR,1706431.0,1,auto
+NY-G902626fded,NY,"Ferguson Enterprises, LLC.",32,2025-04-24,exact,100.0,,"Ferguson Enterprises, LLC",Ferguson Enterprises Inc. /DE/,Ferguson Enterprises Inc. /DE/,FERG,2011641.0,1,auto
+CA-G86ffaf4489,CA,Safeway,65,2023-04-27,alias,99.0,,Safeway,safeway,"Albertsons Companies, Inc.",ACI,1646972.0,1,auto
+CA-Gf673611416,CA,"Cisco Systems, Inc.",842,2024-09-19,exact,100.0,,"Cisco Systems, Inc","CISCO SYSTEMS, INC.","CISCO SYSTEMS, INC.",CSCO,858877.0,1,auto
+CA-G1d476f77e6,CA,Accenture,148,2023-05-09,exact,100.0,,Accenture,Accenture plc,Accenture plc,ACN,1467373.0,1,auto
+TX-G74a9465130,TX,Callaway Golf Interactive Inc,28,2024-08-27,exact_sub,97.0,,Callaway Golf Interactive Inc,"Callaway Golf Interactive, Inc.",Callaway Golf Co,CALY,837465.0,1,auto
+WA-Ga8e85c57a6,WA,TransAlta,72,2025-10-30,exact,100.0,,TransAlta,TRANSALTA CORP,TRANSALTA CORP,TAC,1144800.0,1,auto
+CA-G3c15f61fa9,CA,"Peloton Interactive, Inc.",5,2023-06-08,exact,100.0,,"Peloton Interactive, Inc","PELOTON INTERACTIVE, INC.","PELOTON INTERACTIVE, INC.",PTON,1639825.0,1,confirmed
+CA-Ga354e9daca,CA,Kraft Heinz Foods Company,60,2023-10-03,exact_sub,97.0,,Kraft Heinz Foods Company,Kraft Heinz Foods Company,Kraft Heinz Co,KHC,1637459.0,1,auto
+CA-G3ab3b6f489,CA,Safeway,69,2025-02-06,alias,99.0,,Safeway,safeway,"Albertsons Companies, Inc.",ACI,1646972.0,1,auto
+TX-G82ed5bf2d4,TX,Accenture LLP (Austin),351,2023-10-10,exact,100.0,,Accenture LLP (Austin),Accenture plc,Accenture plc,ACN,1467373.0,1,auto
+CA-Gba0a8e4589,CA,Thermo Fisher Scientific,218,2023-04-27,exact,100.0,,Thermo Fisher Scientific,THERMO FISHER SCIENTIFIC INC.,THERMO FISHER SCIENTIFIC INC.,TMO,97745.0,1,auto
+NY-G8ad8d61080,NY,"Citigroup Global Markets, Inc.",62,2024-04-01,exact_sub,97.0,"sub_light_mismatch,sub_maybe_acquired_later","Citigroup Global Markets, Inc",Citigroup Global Markets Holdings Inc.,CITIGROUP INC,C,831001.0,1,confirmed
+CA-G2d02c6e732,CA,Western Digital,57,2023-12-26,exact,100.0,,Western Digital,WESTERN DIGITAL CORP,WESTERN DIGITAL CORP,WDC,106040.0,1,auto

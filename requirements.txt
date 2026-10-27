@@ -1,0 +1,11 @@
+pandas
+pyarrow
+numpy
+requests
+pyyaml
+openpyxl
+pdfplumber
+rapidfuzz
+playwright
+yfinance
+matplotlib

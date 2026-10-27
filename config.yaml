@@ -1,0 +1,60 @@
+period:
+  start: 2023-01-01
+  end: null            # null = today
+
+http:
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/128 Safari/537.36"
+  state_delay_sec: [2, 3]
+  retries: 3
+  sec_user_agent: "WARN_PILOT research you@example.com"   # SEC requires a contact email
+  sec_max_rps: 10
+
+states:
+  CA:
+    enabled: true
+    history: true
+    page: https://edd.ca.gov/en/jobs_and_training/Layoff_Services_WARN/
+    current_xlsx: https://edd.ca.gov/siteassets/files/jobs_and_training/warn/warn_report1.xlsx
+    archive_pdf_from_page: true      # PDF names are irregular — take links from the page
+    public_date_field: received_date  # NOT notice_date: median lag 26 days
+    publish_weekdays: [1, 3]          # Tue, Thu (0 = Mon)
+  WA:
+    enabled: true
+    history: true
+    page: https://fortress.wa.gov/esd/file/WARN/Public/SearchWARN.aspx
+    public_date_field: received_date
+  TX:
+    enabled: true
+    history: true
+    page: https://www.twc.texas.gov/data-reports/warn-notice
+    xlsx_template: https://www.twc.texas.gov/sites/default/files/oei/docs/warn-act-listings-{year}-twc.xlsx
+    needs_browser: true               # AWS WAF
+    public_date_field: received_date
+  NY:
+    enabled: true
+    history: true
+    archive_pages:
+      - https://dol.ny.gov/2023-warn-notices
+      - https://dol.ny.gov/2024-warn-notices
+      - https://dol.ny.gov/warn-notices   # 01.01–01.04.2025
+    dashboard: "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARNList?:embed=y&:showVizHome=no&:render=true"
+    needs_browser: true               # dashboard only
+    public_date_field: notice_date
+  NJ:
+    enabled: true
+    history: false                    # publication month only
+    page: https://www.nj.gov/labor/business-services/layoffs-and-closing/file-warn-notice/
+    xlsx: https://www.nj.gov/labor/assets/PDFs/WARN/WARN_Notice_Archive.xlsx
+
+prices:
+  source: yfinance
+  benchmark: SPY
+
+thresholds:
+  stage0_min_states: 3
+  stage2_min_public_notices: 300
+  stage2_min_precision: 0.95
+  stage3_min_lead_events: 150
+  stage4_min_abs_t: 2.0
+  min_price: 5.0
+  estimation_window: [-250, -30]

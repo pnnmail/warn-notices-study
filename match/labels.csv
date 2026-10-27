@@ -1,0 +1,573 @@
+group_id,cik,company_raw,ticker,label,sample,note,labeled_by,round
+WA-Ga1ccc0ed9f,1650372.0,"Atlassian US, Inc.",TEAM,1,auto,,claude,2
+CA-Ge255062f12,1786352.0,"BILL Operations, LLC",BILL,1,auto,,claude,2
+CA-G40fc80312f,1110803.0,"Illumina, Inc.",ILMN,1,auto,,claude,2
+CA-G9974dfd07c,1368622.0,"AeroVironment, Inc.",AVAV,1,auto,,claude,2
+WA-G2db32efb17,1108524.0,"Salesforce, Inc.",CRM,1,auto,,claude,2
+CA-G56fca1c3a7,1789769.0,"Instil Bio, Inc.",TIL,1,auto,,claude,2
+WA-G49d73ff62d,1283699.0,"T-Mobile USA, Inc.",TMUS,1,auto,,claude,2
+NY-Ged7fee4528,1628369.0,"Pinnacle City Living, LLC.",CWK,1,auto,,claude,2
+CA-Gdc38076859,1521332.0,Motional AD Inc.,APTV,1,auto,,claude,2
+CA-G43b3e2d61d,1108524.0,"Salesforce, Inc.",CRM,1,auto,,claude,2
+WA-G03150d2fd0,1324424.0,"Expedia, Inc.",EXPE,1,auto,,claude,2
+CA-Gdebb2191b9,1811210.0,"Lucid USA, Inc.",LCID,1,auto,,claude,2
+CA-Gb89e69a9da,1506293.0,Pinterest Inc.,PINS,1,auto,,claude,2
+CA-Gc916bcc0f2,1604464.0,Atara Biotherapeutics,ATRA,1,auto,,claude,2
+CA-G863e49d1a3,1477333.0,"Cloudflare, Inc.",NET,1,auto,,claude,2
+WA-G7ba3df91e0,104169.0,Walmart,WMT,1,auto,,claude,2
+NY-G30ac163487,1095073.0,"Mt. McKinley Managers, LLC.",EG,1,auto,,claude,2
+CA-Ga86d436f70,1090727.0,UPS,UPS,1,auto,,claude,2
+CA-G5bf81a473c,51143.0,International Business Machines Corporation (IBM),IBM,1,auto,,claude,2
+CA-G306b30c1e2,719955.0,"Williams-Sonoma Direct, Inc.",WSM,1,auto,,claude,2
+TX-G1e2c728c2a,51434.0,International Paper Company(Edinburg),IP,1,auto,,claude,2
+WA-Gdf1f05d327,1326801.0,"Meta Platforms, Inc",META,1,auto,,claude,2
+CA-G1af2c413db,731766.0,"Optum Care, Inc.",UNH,1,auto,,claude,2
+CA-G2c95d2a473,1628369.0,Cushman & Wakefield U.S. Inc.,CWK,1,auto,,claude,2
+CA-G3eb50b8257,101829.0,Raytheon,RTX,1,auto,,claude,2
+CA-G7bd63ef7fa,866374.0,Flex LTD,FLEX,1,auto,,claude,2
+CA-G177fffa759,1020859.0,United Natural Foods West,UNFI,1,auto,,claude,2
+CA-Gfc533008e3,1534701.0,Phillips 66,PSX,1,auto,,claude,2
+WA-G6679b3e23b,829224.0,Starbucks,SBUX,1,auto,,claude,2
+CA-Ga1a521bde3,1577526.0,"C3.ai, Inc.",AI,1,auto,,claude,2
+CA-G462560bbb0,1506293.0,Pinterest Inc. (San Francisco),PINS,1,auto,,claude,2
+TX-G2b81857d3f,49196.0,Huntington National Bank,HBAN,1,auto,,claude,2
+CA-G8af463706a,1326801.0,"Meta Platforms, Inc.",META,1,auto,,claude,2
+CA-Gee122904bc,14272.0,Bristol Myers Squibb,BMY,1,auto,,claude,2
+CA-Geeff90730c,73309.0,Nucor Buildings Group West LLC,NUE,1,auto,,claude,2
+TX-G027f3f82e4,885725.0,Boston Scientific Corporation,BSX,1,auto,,claude,2
+CA-Ge4adf22823,1467623.0,"Dropbox, Inc.",DBX,1,auto,,claude,2
+CA-G3696cfa212,1646972.0,The Vons Companies Inc.,ACI,1,auto,,claude,2
+CA-G2ca4454167,1467858.0,Cruise LLC,GM,1,auto,,claude,2
+CA-G2779684d14,936468.0,Lockheed Martin,LMT,1,auto,,claude,2
+WA-Gfb9546fce3,1730168.0,Broadcom Inc.,AVGO,1,auto,,claude,2
+CA-G1b04f04cda,1403161.0,Visa,V,1,auto,,claude,2
+CA-G04e242df4c,732712.0,Verizon,VZ,1,auto,,claude,2
+CA-Ga43ddf749d,1090727.0,UPS,UPS,1,auto,,claude,2
+NY-G2ce140e5ae,1065088.0,eBay Inc.,EBAY,1,auto,,claude,2
+CA-G3281b072de,2041610.0,Paramount Global,PSKY,0,auto,,claude,2
+CA-Gb4b29fc537,1651562.0,"Coursera, Inc.",COUR,1,auto,,claude,2
+TX-Gc0488bdb99,1070985.0,CoreCivic (South Texas Family Residential Center),CXW,1,auto,,claude,2
+WA-Gb445d4eabf,789019.0,Microsoft,MSFT,1,auto,,claude,2
+WA-Gc4a9fe1566,1018724.0,Amazon,AMZN,1,auto,,claude,2
+NY-Gb52817a1d2,6201.0,"Piedmont Airlines, Inc.",AAL,1,auto,,claude,2
+CA-Gb2be3a1104,1646972.0,The Vons Companies Inc.,ACI,1,auto,,claude,2
+WA-Gb05713e416,807882.0,Jack in the Box,JACK,1,auto,,claude,2
+CA-G10cb4b11d9,50863.0,Intel Corporation,INTC,1,auto,,claude,2
+NY-G9787312b9e,320187.0,"NIKE Retail Services, Inc.",NKE,1,auto,,claude,2
+NY-G6f27c7e7e7,1365135.0,Pay-O-Matic Corp.,WU,1,auto,,claude,2
+CA-G317e0560bd,1748790.0,"Berry Global, Inc.",AMCR,0,auto,,claude,2
+CA-G4f1899833a,1319161.0,Warner Music Inc.,WMG,1,auto,,claude,2
+TX-Gdfc97f3331,1646972.0,United Supermarkets,ACI,1,auto,,claude,2
+TX-Gc07567fdc6,101829.0,Raytheon Technologies,RTX,1,auto,,claude,2
+TX-G83e8af4d37,1712189.0,Target Hospitality (Dilley South Texas Family Residential Center),TH,1,auto,,claude,2
+CA-G8136404c7f,804328.0,Qualcomm Incorporated,QCOM,1,auto,,claude,2
+CA-G7977c23f5c,1411690.0,"Bionano Genomics, Inc.",BNGO,1,auto,,claude,2
+CA-G2d20bfa763,1357615.0,KBR Services LLC,KBR,1,auto,,claude,2
+TX-G83452e576f,1316835.0,Builders FirstSource (Grandview),BLDR,1,auto,,claude,2
+CA-G78a4fb7968,316709.0,"Charles Schwab & Co., Inc.",SCHW,1,auto,,claude,2
+WA-G46a077f307,1090872.0,"Agilent Technologies, Inc.",A,1,auto,,claude,2
+CA-Gf9605a632f,1108524.0,"Salesforce, Inc.",CRM,1,auto,,claude,2
+TX-G5e52366be6,1158449.0,Advanced Auto Parts #6855 (Pearland),AAP,1,auto,,claude,2
+CA-G6485bbe6be,78003.0,Pfizer,PFE,1,auto,,claude,2
+CA-Ga069a32d64,1633917.0,PayPal,PYPL,1,auto,,claude,2
+CA-G65ecf4e7d6,1133421.0,Northrop Grumman,NOC,1,auto,,claude,2
+TX-G348b5b1219,1646972.0,Albertsons #106 (Euless),ACI,1,auto,,claude,2
+CA-G7c2092eda5,97745.0,Thermo Fisher Scientific,TMO,1,auto,,claude,2
+CA-Gc8afcf1287,101829.0,Raytheon,RTX,1,auto,,claude,2
+CA-G411e27ce3e,1467858.0,Cruise LLC,GM,1,auto,,claude,2
+NY-G83904f61d1,1318605.0,"Tesla, Inc.",TSLA,1,auto,,claude,2
+CA-Gf30e862091,1110803.0,"Illumina, Inc.",ILMN,1,auto,,claude,2
+NY-G89b3500d17,77476.0,"Frito-Lay, Inc.",PEP,1,auto,,claude,2
+CA-G85426c19c0,1609253.0,California Resources Corporation,CRC,1,auto,,claude,2
+CA-G88ac732d1a,1534701.0,"Sentinel Transportation, LLC",PSX,1,auto,,claude,2
+CA-G624b4b3fa6,104169.0,Walmart,WMT,1,auto,,claude,2
+CA-G6fe97728e7,1474432.0,"Pure Storage, Inc.",P,1,auto,,claude,2
+TX-Ge43f83a28b,101829.0,Raytheon Technologies,RTX,1,auto,,claude,2
+CA-Gb4acd70fc9,1467623.0,"Dropbox, Inc.",DBX,1,auto,,claude,2
+CA-G0abb95e3da,1048477.0,BioMarin Pharmaceutical Inc.,BMRN,1,auto,,claude,2
+TX-G47acb37abf,771497.0,ABM Texas General Services (SMU),ABM,1,auto,,claude,2
+NY-Gff531d6491,1326110.0,"ImmunityBio, Inc.",IBRX,1,auto,,claude,2
+CA-G27fcf459eb,1335258.0,"Hollywood Palladium, a subsidiary of Live Nation Entertainment, Inc.",LYV,1,auto,,claude,2
+CA-Gf4e44df816,1815776.0,Graphite Bio,LENZ,1,auto,,claude,2
+CA-G588c59f336,858877.0,"Cisco Systems, Inc.",CSCO,1,auto,,claude,2
+CA-G651534cbc5,1783879.0,"Robinhood Markets, Inc.",HOOD,1,auto,,claude,2
+NY-Gd63edcf94e,9389.0,Ball Corporation Beverage Packaging d/b/a Ball Metal Beverage Container Operations,BALL,1,auto,,claude,2
+CA-Gc5452bde9b,918251.0,"Motorcar Parts of America, Inc.",MPAA,1,auto,,claude,2
+NY-G7dd5ecfcdc,712034.0,"ACCO Brands USA, LLC",ACCO,1,auto,,claude,2
+CA-G690a170072,1121404.0,Sanofi,SNY,1,auto,,claude,2
+CA-G4dbef0ce2b,794367.0,Macys,M,1,auto,,claude,2
+CA-G53ad61a9be,1828972.0,"BuzzFeed Media Enterprises, Inc.",BZFD,1,auto,,claude,2
+CA-G4aab2fc6af,1852244.0,"GXO Logistics Supply Chain, Inc.",GXO,1,auto,,claude,2
+CA-G5a629b704e,707549.0,Lam Research Corporation,LRCX,1,auto,,claude,2
+CA-G7fe0fdd77b,1049521.0,"Mercury Systems, Inc.",MRCY,1,auto,,claude,2
+TX-Gad5ecaf215,19617.0,JPMorgan Chase & Co.,JPM,1,auto,,claude,2
+CA-Ge707d1ede9,101829.0,RTX (2012),RTX,1,auto,,claude,2
+CA-G20732fc7d0,1703056.0,ADT Solar,ADT,1,auto,,claude,2
+CA-Gf54c693b0f,1639825.0,Peloton Interactive Inc.,PTON,1,auto,,claude,2
+CA-G66ccd03fbc,1551182.0,"Joslyn Sunbank Company, LLC",ETN,1,auto,,claude,2
+TX-G6b10aca540,1158449.0,Advanced Auto Parts # 8046 (Spring),AAP,1,auto,,claude,2
+CA-Gb17837ac2b,106040.0,Western Digital,WDC,1,auto,,claude,2
+CA-G12ff18e031,1299130.0,"Pacific Biosciences of California, Inc.",PACB,1,auto,,claude,2
+TX-G2187bc477b,1262823.0,Westlake Royal Building Products,WLK,1,auto,,claude,2
+CA-G4163ccb9ae,882095.0,"Gilead Sciences, Inc.",GILD,1,auto,,claude,2
+CA-Gbf08ae818c,1357615.0,KBR Services LLC,KBR,1,auto,,claude,2
+CA-G5bce0bcac9,50863.0,Intel Corporation,INTC,1,auto,,claude,2
+CA-G93d14edfe6,1018724.0,Amazon,AMZN,1,auto,,claude,2
+TX-G427ec64395,1158449.0,Advanced Auto Parts# 7776 (Plano),AAP,1,auto,,claude,2
+CA-Gfd0d15512a,1646972.0,Safeway,ACI,1,auto,,claude,2
+CA-G45041f1291,732717.0,AT&T,T,1,auto,,claude,2
+TX-G96f24548aa,1759631.0,Hyliion Inc,HYLN,1,auto,,claude,2
+CA-Gd4f48dfa70,1326110.0,"ImmunityBio, Inc.",IBRX,1,auto,,claude,2
+CA-G94100c9ff1,1035267.0,"Intuitive Surgical, Inc.",ISRG,1,auto,,claude,2
+CA-Gd62979e1ae,1048477.0,BioMarin Pharmaceutical Inc.,BMRN,1,auto,,claude,2
+CA-Gfded5a897e,1108524.0,"Salesforce, Inc.",CRM,1,auto,,claude,2
+CA-G5f98b59ad2,1534701.0,Phillips 66,PSX,1,auto,,claude,2
+CA-Gb3a951b022,1616707.0,"Wayfair, LLC",W,1,auto,,claude,2
+CA-G38c71f195c,1512673.0,"Block, Inc.",XYZ,1,auto,,claude,2
+CA-Gb8fcf00396,789019.0,LinkedIn Corporation,MSFT,1,auto,,claude,2
+WA-G104545c24d,1018724.0,Amazon,AMZN,1,auto,,claude,2
+CA-G117333a493,50863.0,Intel Corporation,INTC,1,auto,,claude,2
+CA-G842c0862db,1660134.0,"Okta, Inc.",OKTA,1,auto,,claude,2
+CA-Ga1ac783e23,1811414.0,Quantumscape Battery Inc.,QS,1,auto,,claude,2
+CA-Gc0ff33af25,109198.0,"Marshalls of CA, LLC",TJX,1,auto,,claude,2
+CA-G8ffbed5ce4,78003.0,Pfizer,PFE,1,auto,,claude,2
+NY-G05931cbda8,275880.0,Parsons Corporation,PSN,1,auto,,claude,2
+CA-G05b3aeeaf9,1090872.0,Agilent Technologes,A,1,auto,,claude,2
+CA-G7e6cca84d9,2041610.0,Paramount Global,PSKY,0,auto,,claude,2
+CA-G36a7c2088d,1326110.0,"ImmunityBio, Inc.",IBRX,1,auto,,claude,2
+CA-Gab61cfbec3,97745.0,Thermo Fisher Scientific,TMO,1,auto,,claude,2
+CA-Gc23a133d78,63276.0,"Mattel, Inc.",MAT,1,auto,,claude,2
+NY-G9b7d2c66fa,1397911.0,Atria Wealth Solutions,LPLA,1,auto,,claude,2
+TX-G5e4497f490,1021860.0,Keystone Tower Systems,NOV,1,auto,,claude,2
+CA-G8f6f8e4dfd,1652044.0,Google,GOOGL,1,auto,,claude,2
+CA-G98364c402a,16918.0,"Constellation Brands, Inc.",STZ,1,auto,,claude,2
+CA-G696567791a,1373715.0,"ServiceNow, Inc.",NOW,1,auto,,claude,2
+CA-G6512dc11b3,320193.0,Apple Inc.,AAPL,1,auto,,claude,2
+CA-G1d265ba4a6,882095.0,"Gilead Sciences, Inc.",GILD,1,auto,,claude,2
+CA-G2cae56c898,1477294.0,Sensata Technologies,ST,1,auto,,claude,2
+CA-G0260871947,1835632.0,"Marvell Semiconductor, Inc.",MRVL,1,auto,,claude,2
+WA-G12aa5ae878,807882.0,Jack in the Box,JACK,1,auto,,claude,2
+CA-Ga6cc07262f,1645590.0,"Juniper Networks, Inc.",HPE,0,auto,,claude,2
+WA-G878a4f6820,12927.0,Boeing,BA,1,auto,,claude,2
+CA-G668cb6b164,2005951.0,Smurfit WestRock,SW,1,auto,,claude,2
+NY-G0c0a478967,895421.0,Morgan Stanley,MS,1,auto,,claude,2
+CA-G2691ee91a0,1543151.0,"Uber Technologies, Inc. (1655 3rd Street)",UBER,1,auto,,claude,2
+TX-G76e985c951,1576789.0,"Wix.com, Inc.",WIX,1,auto,,claude,2
+CA-Gf0387258fc,51434.0,International Paper Company,IP,1,auto,,claude,2
+WA-G09817fa3e5,1326801.0,"Meta Platforms, Inc",META,1,auto,,claude,2
+TX-G95ee8ffadf,1324424.0,Expedia Group Inc. (Austin),EXPE,1,auto,,claude,2
+CA-G568474c899,732717.0,AT&T,T,1,auto,,claude,2
+WA-G777e74f8a1,1283699.0,T-Mobile,TMUS,1,auto,,claude,2
+CA-G4fe536516c,1852244.0,"GXO Logistics Supply Chain, Inc.",GXO,1,auto,,claude,2
+CA-G1cbc201207,882095.0,"Gilead Sciences, Inc.",GILD,1,auto,,claude,2
+NY-G9f7b0d3878,1018724.0,Amazon,AMZN,1,auto,,claude,2
+NY-Ge3d62ce9d1,1275187.0,"AngioDynamics, Inc.",ANGO,1,auto,,claude,2
+CA-G0bd82e99d9,1382101.0,"Sutro Biopharma, Inc.",STRO,1,auto,,claude,2
+TX-G0517ff3caa,1467373.0,Accenture LLP (Austin),ACN,1,auto,,claude,2
+CA-G9a7903c8ff,1364954.0,Chegg,CHGG,1,auto,,claude,2
+CA-Gd5a735125e,1341439.0,"Oracle America, Inc.",ORCL,1,auto,,claude,2
+CA-G0bf284a940,12927.0,The Boeing Company,BA,1,auto,,claude,2
+CA-Gf06d757bcd,1108524.0,"Salesforce, Inc.",CRM,1,auto,,claude,2
+CA-G4e1aab2794,1385157.0,TE Connectivity,TEL,1,auto,,claude,2
+WA-Gad7ecc573a,882095.0,"Gilead Sciences, Inc.",GILD,1,auto,,claude,2
+NY-Gdc8dc16b9a,1091667.0,"Charter Communications, Inc.",CHTR,1,auto,,claude,2
+CA-G6d59559c24,200406.0,"Medical Device Business Services, Inc.",JNJ,1,auto,,claude,2
+CA-G33f7688fc5,72971.0,Wells Fargo,WFC,1,auto,,claude,2
+CA-G3c15f61fa9,1639825.0,"Peloton Interactive, Inc.",PTON,1,auto,,claude,2
+CA-Geef543a937,1800.0,Abbott Vascular,ABT,1,auto,,claude,2
+NY-Gc0ae5dcc88,1090727.0,"United Parcel Services, Inc. (OH) d/b/a UPS",UPS,1,auto,,claude,2
+NY-G5941ab0da4,1822359.0,"Rapid Reliable Care by DocGo, LLC",DCGO,1,auto,,claude,2
+CA-Ga4e7c41303,2042694.0,"Primo Brands, Inc.",PRMB,1,auto,,claude,2
+CA-G27e355d36a,51434.0,International Paper Company,IP,1,auto,,claude,2
+CA-G1e673e0199,200406.0,"Medical Device Business Services, Inc.",JNJ,1,auto,,claude,2
+CA-G217287bf61,1646972.0,Safeway,ACI,1,auto,,claude,2
+TX-Ga59cd13d2d,1283699.0,"T-Mobile USA, Inc. (Texas Irving Office)",TMUS,1,auto,,claude,2
+CA-G726dbb5f6e,1650372.0,"Atlassian US, Inc.",TEAM,1,auto,,claude,2
+TX-G374edd3b46,1048911.0,Federal Express Corporation (Temple),FDX,1,auto,,claude,2
+CA-G4d0e1904b6,1048911.0,Federal Express Corporation,FDX,1,auto,,claude,2
+CA-Gb4258b37aa,1308208.0,Southern Counties Express,ULH,1,auto,,claude,2
+CA-Gc24a3a0157,1674335.0,JELD-WEN Inc.,JELD,1,auto,,claude,2
+CA-Ga2f0cb55c7,882095.0,"Gilead Sciences, Inc.",GILD,1,auto,,claude,2
+TX-G7372a48c6a,1530950.0,Bob Evans Foods (Sulphur Springs),POST,1,auto,,claude,2
+WA-G2e5432b0df,1018724.0,Amazon,AMZN,1,auto,,claude,2
+CA-G347abaae28,101829.0,Raytheon Technologies,RTX,1,auto,,claude,2
+CA-Ga516ff9441,1423221.0,Quanex Homeshield LLC,NX,1,auto,,claude,2
+CA-Gea4388d287,1110803.0,"Illumina, Inc.",ILMN,1,auto,,claude,2
+CA-Gd4c7f77c5e,1397911.0,LPL Financial LLC,LPLA,1,auto,,claude,2
+WA-G0589a3433d,829224.0,Starbucks,SBUX,1,auto,,claude,2
+CA-G01fd3aeecd,1806952.0,"ImmPact Bio USA Inc., a subsidiary of Lyell Immunopharma Inc.",LYEL,1,auto,,claude,2
+CA-G48985af7e1,57515.0,T. Marzetti,MZTI,1,auto,,claude,2
+CA-Ga2d366abac,202058.0,"L3Harris Technologies, Inc.",LHX,1,auto,,claude,2
+CA-G40def1a375,849869.0,Silgan Containers,SLGN,1,auto,,claude,2
+CA-G0bf282423f,93410.0,Chevron,CVX,1,review,,claude,3
+TX-G2448742e7a,93410.0,Chevron Corporation (HESS Corporation),CVX,1,review,,claude,3
+CA-G62fd91da7b,93410.0,Chevron,CVX,1,review,,claude,3
+CA-Gf20ccf3d81,93410.0,Chevron,CVX,1,review,,claude,3
+CA-G4257396839,93410.0,Chevron,CVX,1,review,,claude,3
+TX-G34a0200ffd,93410.0,Chevron (Deauville Blvd),CVX,1,review,,claude,3
+CA-G1e488e3dab,63908.0,McDonald's Corporation,MCD,1,review,,claude,3
+NY-G8de4244b05,1048286.0,"Marriott International Administrative Services, Inc.",MAR,1,review,,claude,3
+NY-G89237abcfe,1468174.0,Hyatt Corporation,H,1,review,,claude,3
+CA-G7c0c1a01a8,1468174.0,Hyatt Corporation dba Waterfront Hotel,H,1,review,,claude,3
+NY-G9233e400ee,874761.0,CORE Development Company,AES,0,review,,claude,3
+CA-Gd69caa0858,7084.0,Mama Management USA LLC,ADM,0,review,,claude,3
+CA-Gea7aa0f667,789460.0,HTX Services LLC,WKC,0,review,,claude,3
+NY-G999ac099b4,789460.0,"HTx Services, L.L.C.",WKC,0,review,,claude,3
+WA-G12f90c9acd,1800.0,"AMT Medical, Inc. dba Velocity medtech",ABT,0,review,,claude,3
+CA-G6f76bdba74,1768267.0,"AMQ Solutions, LLC",CRNC,0,review,,claude,3
+CA-G08068745af,1332349.0,Aura Management Co.,BKD,0,review,,claude,3
+CA-Ged4f5f5312,1332349.0,Aura Management Co.,BKD,0,review,,claude,3
+TX-G6ef12d1af6,2488.0,Aventi Technologies,AMD,0,review,,claude,3
+CA-Ga8e8d00a5d,7536.0,Electronic Arts Inc.,ARW,0,review,,claude,3
+CA-G1538f4e52b,1997350.0,Accelerate360 Distribution LLC,ARX,0,review,,claude,3
+WA-G9ed0c166d2,1552033.0,BM Administrative Services,TRU,0,review,,claude,3
+WA-Ga1f8c3c4bd,1552033.0,BM Administrative Services,TRU,0,review,,claude,3
+CA-Gbefd653fc5,1552033.0,"GEP Administrative Services, LLC dba Entertainment Partners",TRU,0,review,,claude,3
+CA-G687d06e5b5,1552033.0,"GEP Administrative Services, LLC dba Entertainment Partners",TRU,0,review,,claude,3
+WA-Ga1153c329c,1552033.0,Haak Administrative Services LLC,TRU,0,review,,claude,3
+CA-G37ffb03e1a,1111335.0,Alto Systems,VC,0,review,,claude,3
+CA-G0c053a52b3,789460.0,Alstom Transportation Inc,WKC,0,review,,claude,3
+CA-G43d82a201d,1002910.0,"ERN Services, Inc.",AEE,0,review,,claude,3
+TX-Gbb158a9149,1455863.0,"Arnold Transportation Services, Inc",COLD,0,review,,claude,3
+NY-Gfd45ac6a0b,1774857.0,Acorda Therapeutics Inc.,AARD,0,review,,claude,3
+CA-G9b339a3fe8,7084.0,"Faros Unlimited, Inc",ADM,0,review,,claude,3
+CA-G635b422496,1267565.0,Novartis Pharmaceuticals Corporation,COLL,0,review,,claude,3
+CA-G1bbc3a056b,1267565.0,Novartis Pharmaceuticals Corporation,COLL,0,review,,claude,3
+CA-G0fab3e2630,1267565.0,Novartis Pharmaceuticals Corporation,COLL,0,review,,claude,3
+CA-Gb996442ea6,2086587.0,"Astra Space Operations, LLC",YSS,0,review,,claude,3
+CA-G5d12531440,1520697.0,Azure Acres Treatment Center - 5665,ACHC,1,review,,claude,3
+CA-G832f92f800,1520697.0,Azure Acres Treatment Center - 2641,ACHC,1,review,,claude,3
+CA-G2d852fcdfe,1520697.0,Azure Acres Treatment Center 1160,ACHC,1,review,,claude,3
+CA-Gee31433796,1520697.0,Azure Acres Treatment Center - 2264,ACHC,1,review,,claude,3
+CA-G8de8ab9d9e,1520697.0,Azure Acres Treatment Center - 7064,ACHC,1,review,,claude,3
+CA-Gf5cffaa9b5,1520697.0,Azure Acres Treatment Center - 11740,ACHC,1,review,,claude,3
+NY-G433ccfc9ba,109563.0,"ECR International, Inc.",AIT,0,review,,claude,3
+NY-Gd6717592d1,1393818.0,BPA International Inc.,BX,0,review,,claude,3
+CA-Ged0e3b29f9,1795815.0,ACLU of Southern California,BCAL,0,review,,claude,3
+NY-G189c06e39e,1937926.0,Brookfield BHS Advisors,BAM,0,review,,claude,3
+CA-Ga81015cf23,1937926.0,Brookfield Properties (USA II) LLC,BAM,0,review,,claude,3
+TX-G3fac430788,1873529.0,"CPLC Texas, Inc. (Magnolia ORR Site)",KLC,0,review,,claude,3
+CA-Gda6fa5aefe,1402057.0,DJW Logistics,CDW,0,review,,claude,3
+CA-G800ec173d0,1084869.0,"MMCI Acquisition, LLC dba Mortech Manufacturing Company",FLWS,0,review,,claude,3
+CA-G89f580177b,1084869.0,"MMCI Acquisition, LLC dba Mortech Manufacturing Company",FLWS,0,review,,claude,3
+NY-G604c2cb3f7,1067983.0,"CHEP Services, LLC",BRK-B,0,review,,claude,3
+CA-G728bd993d1,1067983.0,"CHEP Services, LLC",BRK-B,0,review,,claude,3
+WA-Gd16523d80f,1702780.0,"GSC Transport, Inc.",OPTU,0,review,,claude,3
+NY-G581cbeb13f,731766.0,Cazar Logistics,UNH,0,review,,claude,3
+CA-G4d69a68882,1156039.0,Carbon Health,ELV,0,review,,claude,3
+CA-Gea0cbb6a8d,1156039.0,Carbon Health,ELV,0,review,,claude,3
+CA-G90dba1ee7f,1156039.0,Carbon Health,ELV,0,review,,claude,3
+WA-Gd41f4f897e,1520697.0,Cascade Behavioral Health Hospital LLC,ACHC,1,review,,claude,3
+CA-G886789cec7,14272.0,Centene Management Company,BMY,0,review,,claude,3
+CA-G8e2d0a35d0,14272.0,"Centene Management Company, LLC",BMY,0,review,,claude,3
+CA-G015d772a50,1385280.0,Crane Food Services,CNK,0,review,,claude,3
+TX-G0bdb948b2d,70318.0,Conifer's Health Solutions,THC,1,review,,claude,3
+CA-Gf83db0df83,1585689.0,"Clarion Management, Inc.",HLT,0,review,,claude,3
+TX-Gacd1fc24ea,1072627.0,"Bedding Acquisition, LLC (Grand Prairie Plant)",KWY,0,review,,claude,3
+TX-G0e58c0f227,1072627.0,"Bedding Acquisition, LLC",KWY,0,review,,claude,3
+NY-G4e7e4e0a02,29534.0,DYJ Logistics LLC d/b/a DYJ Logistics Group,DG,0,review,,claude,3
+CA-Gbfc9ea6e52,29534.0,DXS Logistics LLC,DG,0,review,,claude,3
+CA-G94d851d8f7,1674168.0,"Modern HR, Inc dba The Kooples Bloom, Inc.",HGV,0,review,,claude,3
+TX-Gc2ca8ba8e6,1171155.0,SNL Distribution Services Corporation,RLGT,0,review,,claude,3
+CA-Gca420103ff,1571996.0,GCOM Software LLC dba Voyatek,DELL,0,review,,claude,3
+TX-Gc650405cbb,46619.0,E4D Technologies,HEI,0,review,,claude,3
+CA-G11d29871e8,1744489.0,Jensen Enterprises Inc. dba Jensen Precast,DIS,0,review,,claude,3
+CA-G1a79788132,903651.0,"Bayless Manufacturing, LLC",INOD,0,review,,claude,3
+CA-G88a4b0c508,65312.0,"Levine Management Group, Inc.",EVI,0,review,,claude,3
+CA-Geebce7d420,1538849.0,"Planet Express (LAX), LLC",CAPL,0,review,,claude,3
+NY-G63c0cfa1aa,807882.0,G&L Restaurant LLC,JACK,0,review,,claude,3
+CA-G9b4acd399e,1136893.0,First Foundation Inc.,FIS,0,review,,claude,3
+CA-Ge0078b4e08,1591670.0,"FPI Management, Inc. (800)",FPI,0,review,,claude,3
+CA-G744e9df590,921825.0,F10 Oceanside LLC,FR,0,review,,claude,3
+TX-Gad241f2563,77360.0,"M & M Manufacturing, Inc.",PNR,0,review,,claude,3
+CA-Gc1ae7a0fed,1035002.0,"GSC Logistics, Inc.",VLO,0,review,,claude,3
+CA-Ge0e758a89f,1035002.0,"GSC Logistics, Inc.",VLO,0,review,,claude,3
+CA-Gd9ad617040,1891856.0,"CAT Restaurant Management, LLC",GENK,0,review,,claude,3
+TX-Gd778449c4d,1467858.0,MW Components (Matthew Warren Inc's USA Fastner Facility),GM,0,review,,claude,3
+TX-Gd5a343dab1,39911.0,"PSW Real Estate, LLC",GAP,0,review,,claude,3
+CA-Gd2d6066462,1826600.0,GAF Energy LLC,MNTK,0,review,,claude,3
+WA-G12b72354bb,10795.0,"GSC Solutions, Inc.",BDX,0,review,,claude,3
+CA-G2313a76e89,10795.0,"GSC Solutions, Inc.",BDX,0,review,,claude,3
+TX-G5c938d85a5,42888.0,CyraCom International Inc.,GGG,0,review,,claude,3
+NY-Gde63644358,42888.0,"CyraCom International, Inc.",GGG,0,review,,claude,3
+CA-G7b79212172,1048286.0,Anthony International,MAR,0,review,,claude,3
+CA-G61d625317b,1048286.0,Anthony International,MAR,0,review,,claude,3
+CA-G4f4dfee7b8,1725255.0,"Gordian Medical, Inc. dba Restorix Health",AHCO,0,review,,claude,3
+CA-Gbef8f5a728,1585689.0,Alliance (Margaret M. Bloomfield),HLT,0,review,,claude,3
+CA-G5ab57571b6,776867.0,"Hogan Services, Inc.",WTM,0,review,,claude,3
+CA-G5f1954e6fe,776867.0,"Hogan Services, Inc.",WTM,0,review,,claude,3
+TX-G79a67fc7cd,1501585.0,Hll Mission Technologies(Administrative Office of the US Courts (AOUSC),HII,1,review,,claude,3
+NY-Ge53f03f785,1737927.0,PL Developments,CGC,0,review,,claude,3
+CA-G8d6ee3a2be,1048286.0,Host International Inc.,MAR,0,review,,claude,3
+CA-G87306a2fe0,1048286.0,Host International Inc.,MAR,0,review,,claude,3
+TX-Gad95a304a1,2011641.0,4XH Logistics LLC,FERG,0,review,,claude,3
+CA-Ge5ea09eb2d,860730.0,G3 Enterprises,HCA,0,review,,claude,3
+TX-Ge9426df1c8,860730.0,HGS Solutions,HCA,0,review,,claude,3
+TX-Gd5a4010cc6,1360604.0,Seton Medical Center Hays,HR,0,review,,claude,3
+CA-Gd469fee87d,1967680.0,"Pacific Catch, Inc.",VLTO,0,review,,claude,3
+NY-G349cd42b15,1725255.0,"Medical Care at Home, P.C.",AHCO,0,review,,claude,3
+CA-Gdbdc1add27,315374.0,"Judco Manufacturing, Inc.",HURC,0,review,,claude,3
+NY-Gd8dc96497f,1046102.0,AAF International,RBA,0,review,,claude,3
+TX-G70abc915f2,858877.0,"Ampac Mobile Holdings, LLC (ProAmpac)",CSCO,0,review,,claude,3
+CA-G5a52514d48,93751.0,"Ground Services International Incorporated, dba dnata",STT,0,review,,claude,3
+CA-G2dbf657e02,1037976.0,"LMB Mortgage Services, Inc. dba LowerMyBills.com",JLL,0,review,,claude,3
+NY-G22bc89d297,1404912.0,ARS Portfolio Services LLC (AUTO LLC d/b/a defi SOLUTIONS),KKR,0,review,,claude,3
+WA-G105e4f1a77,1455863.0,"MV Transportation, Inc",COLD,0,review,,claude,3
+CA-G8349b11fa9,1455863.0,MV Transportation,COLD,0,review,,claude,3
+CA-G600ad7fed9,1455863.0,"MV Transportation, Inc.",COLD,0,review,,claude,3
+NY-G4831b9a849,1455863.0,"MV Transportation, Inc.",COLD,0,review,,claude,3
+CA-Gfa8282eb62,1455863.0,"MV Transportation, Inc.",COLD,0,review,,claude,3
+CA-Gcb4aeeac32,1103982.0,UMA Enterprises,MDLZ,0,review,,claude,3
+CA-G18bc694c86,1869198.0,Altura Management Services,LTH,0,review,,claude,3
+CA-G38075cf7f7,943452.0,WIS International,WAB,0,review,,claude,3
+WA-Gffac8c62a7,797468.0,C2 Technologies,OXY,0,review,,claude,3
+TX-Gc1b24e809e,1037868.0,MII Technologies (AOUSC),AME,0,review,,claude,3
+CA-G641728e9b2,1096343.0,PKL Services Inc,MKL,0,review,,claude,3
+CA-G3b1aeaafef,1090727.0,Z Global Logistics dba Kelly Toys Holding LLC,UPS,0,review,,claude,3
+NY-Ga820f2f002,1796209.0,"Ampla Technologies, Inc.",APG,0,review,,claude,3
+TX-Gd39bbdd56a,1524358.0,MPW Services,VAC,0,review,,claude,3
+CA-G181b2c0305,860730.0,Madera Community Hospital,HCA,0,review,,claude,3
+CA-G84625bb997,1125376.0,"Mercy Medical Transportation, Inc.",ENSG,0,review,,claude,3
+CA-Ge1a339d30d,2046386.0,Medallion Industries,MDLN,0,review,,claude,3
+CA-G0f69cf8741,29905.0,Milgard Manufacturing LLC,DOV,0,review,,claude,3
+CA-G1025f599f9,63754.0,Mojave Food Corporation,MKC,1,review,,claude,3
+TX-Ge7704f5835,1513761.0,"HCL America, Inc. (HCL Tech)",NCLH,0,review,,claude,3
+CA-G62c2eaaeb8,860731.0,ITC Federal,TYL,0,review,,claude,3
+CA-Gec3c2e5703,860731.0,ITC Federal,TYL,0,review,,claude,3
+CA-Gae92ae19a8,860731.0,ITC Federal,TYL,0,review,,claude,3
+CA-G044af36cc0,860731.0,ITC Federal,TYL,0,review,,claude,3
+CA-G31ec925b0c,860731.0,ITC Federal,TYL,0,review,,claude,3
+CA-G27ec636dde,860731.0,ITC Federal,TYL,0,review,,claude,3
+CA-G66964798b1,860731.0,ITC Federal,TYL,0,review,,claude,3
+CA-G7cf7532b68,860731.0,"NSI Services, Inc.",TYL,0,review,,claude,3
+TX-G0301c11c9a,1050915.0,"PTW Energy Services, Inc.",PWR,0,review,,claude,3
+CA-G152ef0344f,832101.0,"Noa Technologies, Inc.",IEX,0,review,,claude,3
+TX-G7beae2412b,1546417.0,Toshiba International Corporation,BLMN,0,review,,claude,3
+CA-Gc5486ee700,797468.0,"Key Energy Services, LLC",OXY,0,review,,claude,3
+CA-Gf63a0cf251,797468.0,"Key Energy Services, LLC",OXY,0,review,,claude,3
+CA-G199ea8f7a4,1653477.0,OA Logistics,NGVT,0,review,,claude,3
+CA-G379cf7d214,2001184.0,SPS Ventures Inc.,PACS,0,review,,claude,3
+CA-G2eb4b6f849,1402436.0,PD Systems,SSNC,0,review,,claude,3
+CA-Gf42fd35ac0,860730.0,PT Solutions,HCA,0,review,,claude,3
+CA-G87a481ada6,860730.0,"OTS Solutions, LLC dba On Time Staffing",HCA,0,review,,claude,3
+CA-G9905b2eccd,860730.0,"OTS Solutions, LLC dba On Time Staffing",HCA,0,review,,claude,3
+CA-G3eff252e0a,860730.0,"OTS Solutions, LLC dba On Time Staffing",HCA,0,review,,claude,3
+CA-Gf21426d08d,860730.0,"OTS Solutions, LLC dba On Time Staffing",HCA,0,review,,claude,3
+CA-Gc1a94057f9,315293.0,Orion Strategic Solutions LLC,AON,0,review,,claude,3
+CA-Gd03f39ae04,731766.0,Terzo Enterprises Incorporated,UNH,0,review,,claude,3
+CA-G465eb870da,849395.0,Pride Industries,CRH,0,review,,claude,3
+CA-G848fd43d98,849395.0,PRIDE Industries,CRH,0,review,,claude,3
+TX-G887806dab7,47217.0,"Monitronics International, Inc. dba Brinks Home",HPQ,0,review,,claude,3
+TX-G9933eed5c1,707179.0,"Premier Auto Management, LLC",ONB,0,review,,claude,3
+CA-G9ada125a6f,1043277.0,"IKEA Distribution Services, Inc.",CHRW,0,review,,claude,3
+CA-Gc5453e8a57,1635088.0,"Myovant Sciences, Inc.",ROIV,0,review,,claude,3
+CA-G3c54c7b78b,1478242.0,"NH Research, LLC",IQV,0,review,,claude,3
+CA-G3707c0bad2,1002910.0,SCAT Enterprises LLC,AEE,0,review,,claude,3
+NY-G148bf95cef,1481792.0,N-Quad Logistics LLC,QUAD,0,review,,claude,3
+CA-Gb6e07a81fb,1443646.0,KIRA Government Services,BAH,0,review,,claude,3
+WA-G1601fb887e,1043509.0,"Northwest Motorsport, LLC",SAH,1,review,,claude,3
+WA-Gf7593edd91,898174.0,"KIRA Services, LLC",RGA,0,review,,claude,3
+TX-G630353975a,93410.0,"HCS Renewable Energy, LLC",CVX,0,review,,claude,3
+NY-Ga63aeb8a6e,779544.0,Restaurant Associates,ARKR,0,review,,claude,3
+NY-G9f216f5600,779544.0,Restaurant Associates,ARKR,0,review,,claude,3
+TX-Ga38aceff38,1437107.0,"Rooster Teeth Production, LLC",WBD,1,review,,claude,3
+NY-Ga10a5734a0,1478242.0,Pride Transportation Services Inc.,IQV,0,review,,claude,3
+CA-Gdd8e5d5152,731766.0,SAC Health (1003 East Brier Drive),UNH,0,review,,claude,3
+CA-G5bfb6bd4bf,1413329.0,"SDK Logistics, LLC",PM,0,review,,claude,3
+WA-Ga6831443d6,354190.0,"MSRE Management, L.L.C., dba Martin Selig Real Estate",AJG,0,review,,claude,3
+NY-G7023c03f28,1757898.0,"Sardi's Enterprises, Ltd.",STE,0,review,,claude,3
+WA-Gc8be1a9156,1071739.0,Loftus Administrative Services LLC,CNC,0,review,,claude,3
+CA-G9e1e62737e,1023128.0,eBay - San Francisco,LAD,0,review,,claude,3
+NY-Gf0f900c00a,1853145.0,"Global Security Solutions, Inc.",EVCM,0,review,,claude,3
+CA-G3fd4d08a2a,860730.0,Pomona Hospital Medical Center (1798),HCA,0,review,,claude,3
+WA-Gafb3555862,1467373.0,Q2 Solutions,ACN,0,review,,claude,3
+CA-Gf7de2104f1,1520697.0,South Coast Behavioral Health,ACHC,0,review,,claude,3
+TX-G48aa324031,1156039.0,Southeast Service Corporation (Bastrop Independent School District),ELV,0,review,,claude,3
+CA-G46c8ddcee6,1156039.0,Southeast Service Corporation dba SSC Services for Education,ELV,0,review,,claude,3
+TX-Gc902395e15,70318.0,St. Mark's Medical Center,THC,0,review,,claude,3
+TX-G00c37bea5f,1492691.0,"WIT Services Co., LLC",KNX,0,review,,claude,3
+CA-Gc29e445229,200406.0,Talis Biomedical Corporation,JNJ,0,review,,claude,3
+WA-G1b7dfdf5a0,1437107.0,"NC Interactive, LLC",WBD,0,review,,claude,3
+CA-G80f94e1fc5,1437107.0,"NC Interactive, LLC",WBD,0,review,,claude,3
+TX-G700693a8ed,1967680.0,"STG International, Inc.",VLTO,0,review,,claude,3
+CA-G04e43ddd82,1800227.0,"Retail Service WIS Corporation, DBA WIS International",PPLI,0,review,,claude,3
+CA-G8e1d9fc18f,93556.0,"RoGar Manufacturing, Inc.",SWK,0,review,,claude,3
+WA-Ge19601075e,1466258.0,"Transdev Services, Inc",TT,0,review,,claude,3
+CA-Gf3ce013ef0,1466258.0,"Transdev Services, Inc.",TT,0,review,,claude,3
+CA-G3d3015ce83,1466258.0,"Transdev Services, Inc.",TT,0,review,,claude,3
+CA-G56a9cd68ab,1466258.0,"Transdev Services, Inc.",TT,0,review,,claude,3
+CA-G185cc7366c,1466258.0,"Transdev Services, Inc.",TT,0,review,,claude,3
+CA-Gb9936ee721,1002047.0,Total Storage Solutions (Best RV & Self Storage),NTAP,0,review,,claude,3
+TX-Gb87223301c,97476.0,Texas Instruments - Sherman,TXN,0,review,,claude,3
+TX-G6484c5d54e,86312.0,Phoenix Assurance,TRV,0,review,,claude,3
+TX-Gc90fc63615,1720635.0,"Turner Industries (Paris, Texas September 2025)",NVT,0,review,,claude,3
+CA-G6c77d2ffa9,1451505.0,"Trinity Management Services, Inc.",RIG,0,review,,claude,3
+CA-G702b10b05e,70318.0,"URS Midwest, Inc dba United Road Services",THC,0,review,,claude,3
+TX-G9dd32426bf,1810806.0,Unity Technologies-Austin,U,1,review,,claude,3
+CA-Ga958101622,1810806.0,Unity Technologies,U,1,review,,claude,3
+WA-G158e8c221d,1810806.0,Unity Technologies,U,1,review,,claude,3
+CA-Gec033de1f3,1810806.0,Unity Technologies,U,1,review,,claude,3
+NY-G18b3551d1c,18926.0,Unilever Manufacturing (US) Inc.,LUMN,0,review,,claude,3
+CA-Gfefa12cd50,1624326.0,Verily Health Inc.,PAVM,0,review,,claude,3
+CA-G607ffc35ef,1437107.0,"ST. Distributing Co., LLC",WBD,0,review,,claude,3
+TX-G3e96a41778,795403.0,Watts Regulators Co.,WTS,1,review,,claude,3
+CA-Gae2e2449ad,108312.0,Woodward West,WWD,0,review,,claude,3
+CA-Gc2ae659b61,1136869.0,SSB Manufacturing Company,ZBH,0,review,,claude,3
+CA-G3f8ba7b9a4,64803.0,Rume Health,CVS,0,review,,claude,3
+WA-Gd8ee765a96,1289308.0,"Alpha Technologies Services, Inc.",ENS,1,review,,claude,3
+WA-G4d7fd8f3fa,1289308.0,"Alpha Technologies Services, Inc.",ENS,1,review,,claude,3
+NY-G2e0432aaa9,1584509.0,"Aramark Services, Inc.",ARMK,1,review,,claude,3
+NY-G62b0bf38d7,1124198.0,"Fluor Corporation, Fluor Enterprises, Inc.; Fluor Industrial Services, Inc.",FLR,1,review,,claude,3
+CA-G1fb1aad7c4,200406.0,"Johnson & Johnson Services, Inc.",JNJ,1,review,,claude,3
+CA-G668c066491,1037976.0,"Jones Lang LaSalle Americas, Inc.",JLL,1,review,,claude,3
+TX-Ga985e87a02,75677.0,Packaging Corporation of America (Woodway),PKG,1,review,,claude,3
+WA-G6f289f5752,75677.0,Packaging Corporation of America,PKG,1,review,,claude,3
+CA-Gdf3f2df6ce,106040.0,"Western Digital Technologies, Inc.",WDC,1,review,,claude,3
+CA-G8792fa0a3d,106040.0,Western Digital Technologies,WDC,1,review,,claude,3
+CA-G6c46277fff,764478.0,Best Buy Health,BBY,1,review,,claude,3
+NY-Gd8681bb9f9,831001.0,"Citigroup Global Markets, Inc.",C,1,review,,claude,3
+CA-G6dab483bf7,1517175.0,"Dairyland Produce, LLC",CHEF,1,review,,claude,3
+CA-Gf6539cfd3a,1517175.0,"Del Monte Capitol Meat Company, LLC DBA Allen Brothers West Coast",CHEF,1,review,,claude,3
+CA-G44c5ab6a75,1517175.0,"Del Monte Capitol Meat Company, LLC dba Allen Brothers West Coast",CHEF,1,review,,claude,3
+CA-Gc8616f7f92,1517175.0,"Del Monte Capitol Meat Company, LLC dba Allen Brothers West Coast",CHEF,1,review,,claude,3
+CA-G70021dc066,1048911.0,"FedEx Supply Chain, Inc.",FDX,1,review,,claude,3
+TX-G78a43b701d,35527.0,Fifth Third Bank,FITB,1,review,,claude,3
+CA-G38c9577b45,1852244.0,"GXO Logistics Worldwide, LLC",GXO,1,review,,claude,3
+CA-G32d1270e54,1852244.0,"GXO Logistics Worldwide, LLC",GXO,1,review,,claude,3
+CA-G8a9e7f610e,1852244.0,"GXO Logistics Worldwide, LLC",GXO,1,review,,claude,3
+CA-G607b6fa570,920148.0,Laboratory Corporation of America Holdings,LH,1,review,,claude,3
+CA-Ge32cc1d3b6,920148.0,Laboratory Corporation of America Holdings,LH,1,review,,claude,3
+TX-G6cb27a60d3,920148.0,Laboratory Corporation of America Holdings,LH,1,review,,claude,3
+CA-G1cd936b9ee,1409970.0,"LendingClub Bank, N.A.",HAPN,1,review,,claude,3
+CA-G46d7cf3a3a,1409970.0,LendingClub Bank,HAPN,1,review,,claude,3
+CA-Gf6bf6e5aa0,60086.0,Loews Hotels & Co,L,1,review,,claude,3
+NY-G01ff628524,927653.0,McKesson Medical-Surgical Inc.,MCK,1,review,,claude,3
+TX-G3776f8c94a,1929561.0,"RXO Last Mile, Inc. (Greens Parkway)",RXO,1,review,,claude,3
+CA-G58c4639222,940944.0,Seasons 52,DRI,1,review,,claude,3
+CA-G6fb3ec4789,1816581.0,"Velodyne Lidar, Inc.",OUST,1,review,,claude,3
+WA-Ge6d63a5a13,1579241.0,"AG Management Group, LLC",ALLE,0,review,,claude,3
+CA-G8c3b5a00ef,1635327.0,"Advanced Systems Group, LLC",FLUT,0,review,,claude,3
+CA-G91986b6abb,1828937.0,Finance of America,FOA,1,review,,claude,3
+CA-G5b085b2492,21076.0,"First Brands Group, LLC",CLX,0,review,,claude,3
+TX-Ge8220b9e93,21076.0,"First Brands Group, LLC",CLX,0,review,First Brands Group ≠ Clorox,claude,3
+TX-Gf284ae153b,21076.0,"First Brands Group, LLC(Billy Mitchell)",CLX,0,review,First Brands Group ≠ Clorox,claude,3
+CA-G64016f4080,731766.0,"HealthCare Partners Group, P.C.",UNH,0,review,,claude,3
+CA-G9cda95d4b9,708955.0,"Summit Funding, Inc.",FFBC,0,review,,claude,3
+CA-G682b013425,36104.0,U.S. Bank,USB,1,review,,claude,3
+CA-Gce8e6874f9,36104.0,U.S. Bank,USB,1,review,,claude,3
+NY-G6686f79109,831001.0,"Citigroup Global Markets, Inc.",C,1,review,,claude,3
+NY-G8ad8d61080,831001.0,"Citigroup Global Markets, Inc.",C,1,review,,claude,3
+TX-G95355245bd,875045.0,"Reata Pharmaceuticals, Inc.(Legacy)",BIIB,1,review,,claude,3
+CA-G9e89dd04d9,1326160.0,"Reliant Services Group, LLC dba Reliant Funding",DUK,0,review,,claude,3
+CA-Gae1e99207d,60519.0,Entekra LLC,LPX,0,review,,claude,3
+TX-G6a5e7ef31c,871763.0,Manpower Group (Irving),MAN,1,review,,claude,3
+NY-Gf854f293ab,1740332.0,"Resideo, LLC. D/B/A ADI",REZI,1,review,,claude,3
+TX-G4ef339ffe0,1674168.0,Tempus Holding INC. d/b/a The Lodge Card Club,HGV,0,review,,claude,3
+NY-Gfa0a38f6b1,850429.0,"Terphane, LLC.",TG,0,review,,claude,3
+CA-G63a69e522a,2005951.0,WestRock,SW,0,review,,claude,3
+WA-G491dccf93c,2005951.0,WestRock Company,SW,0,review,,claude,3
+NY-G1c8ad955fc,2005951.0,WestRock,SW,0,review,,claude,3
+WA-G6fd82b3f4c,2005951.0,WestRock Company,SW,0,review,,claude,3
+CA-G2b1686e3e8,1744489.0,"Hulu, LLC",DIS,1,review,,claude,3
+CA-Gec9cfafa3d,62996.0,BrassCraft Manufacturing Company,MAS,1,review,,claude,3
+CA-G5ac57eb8e2,62996.0,BrassCraft Manufacturing Company,MAS,1,review,,claude,3
+CA-Gc0a3ed5a88,768899.0,"Healthcare Staffing Professionals, Inc.",TBI,1,review,,claude,3
+CA-G111ee03e94,768899.0,"Healthcare Staffing Professionals, Inc.",TBI,1,review,,claude,3
+CA-Ga4f670cf8f,1534701.0,Hunt & Sons LLC,PSX,1,review,,claude,3
+CA-Gcdf140d89b,1645590.0,"Juniper Networks, Inc.",HPE,0,review,,claude,3
+CA-G0dcc2b3649,1645590.0,"Juniper Networks, Inc.",HPE,0,review,,claude,3
+TX-Gd2aae8ac74,73309.0,Nucor Steel (Longview),NUE,1,review,,claude,3
+WA-Gf6d4e6ba71,1590717.0,"Prestige Care, Inc.",CTRE,0,review,,claude,3
+CA-Ge928a69d12,1423221.0,Quanex Homeshield LLC,NX,1,review,,claude,3
+NY-Gac0514102c,940944.0,"RCSH Operations, LLC.",DRI,0,review,,claude,3
+CA-G54adefd091,1001250.0,"Smashbox Beauty Cosmetics, Inc.",EL,1,review,,claude,3
+CA-G21540c9a15,1646972.0,The Vons Companies Inc.,ACI,1,review,,claude,3
+CA-G4c8122f8e1,1646972.0,The Vons Companies Inc.,ACI,1,review,,claude,3
+CA-Ga24400afe9,1646972.0,The Vons Companies Inc.,ACI,1,review,,claude,3
+CA-G44269ca4f8,1001250.0,"Too Faced Cosmetics, LLC",EL,1,review,,claude,3
+CA-G2678593ef2,1810806.0,Unity Technologies SF,U,1,review,,claude,3
+CA-G79e785ce02,1810806.0,Unity Technologies SF,U,1,review,,claude,3
+CA-G04ce22fc9d,2488.0,"AMD, Inc.",AMD,1,review,,claude,3
+CA-Gb8a9250ea4,1740332.0,Ademco Inc.,REZI,1,review,,claude,3
+CA-G335b49385a,50863.0,Altera Corporation,INTC,1,review,,claude,3
+CA-Gf219b8b848,14707.0,Blowfish,CAL,1,review,,claude,3
+CA-G24f8f2a4bf,1467858.0,BrightDrop,GM,1,review,,claude,3
+CA-G6d063ac6be,200406.0,CSATS Inc.,JNJ,1,review,,claude,3
+TX-G50397b75a1,1494259.0,"CarOffer, LLC",CARG,1,review,,claude,3
+CA-G012e4d5f52,320187.0,"Converse, Inc.",NKE,1,review,,claude,3
+CA-G7a87ba645f,711404.0,"CooperVision, Inc.",COO,1,review,,claude,3
+NY-G8edc0fd5fc,1345126.0,Crosman Corporation,CODI,1,review,,claude,3
+NY-Gf8c92b66ee,1385157.0,Deutsch Inc.,TEL,0,review,,claude,3
+CA-G20fcb182f4,940944.0,"GMRI, Inc. d/b/a Eddie V's",DRI,1,review,,claude,3
+CA-G8af85317cf,940944.0,"GMRI, Inc. dba Yard House",DRI,1,review,,claude,3
+WA-G04d913b54e,940944.0,"GMRI, Inc. dba Bahama Breeze",DRI,1,review,,claude,3
+CA-Gc46dcbdf56,1037868.0,"Gatan, Inc.",AME,1,review,,claude,3
+CA-G3603eeda8a,1254699.0,"HSNi, LLC",QVCG,1,review,,claude,3
+CA-G43ffc54ab7,1108524.0,Informatica LLC,CRM,1,review,,claude,3
+CA-G517e0ff82e,1037868.0,IntelliPower Inc.,AME,1,review,,claude,3
+CA-G360fd39d74,1032975.0,Logitech Inc.,LOGI,1,review,,claude,3
+NY-G6deb32bdbe,1370946.0,Masonite Corporation d/b/a Owens Corning Doors,OC,1,review,,claude,3
+CA-G5935c4d21f,1166691.0,"NBCUniversal (Bldgs. 1280, 1320, 1360, and 4250)",CMCSA,1,review,,claude,3
+NY-G9bfd0a2354,1564708.0,"NYP Holdings, Inc.",NWSA,1,review,,claude,3
+CA-Gd00c9c58b6,731766.0,Optum,UNH,1,review,,claude,3
+CA-Gb3cb722ae7,1464423.0,Pennymac,PMT,0,review,,claude,3
+CA-Gbc99954e82,1464423.0,Pennymac,PMT,0,review,,claude,3
+CA-Ge4bcfc7360,1744489.0,Pixar,DIS,1,review,,claude,3
+CA-G060ab64ccd,1289308.0,Quallion LLC,ENS,1,review,,claude,3
+CA-G76269c3afb,842633.0,Rieke LLC,TRS,1,review,,claude,3
+TX-Gd0850070b3,85961.0,Ryder Inc.,R,1,review,,claude,3
+CA-G43aab5cbcf,85961.0,Ryder,R,1,review,,claude,3
+CA-G103e702a1f,1883313.0,"TVI, Inc. dba Savers",SVV,1,review,,claude,3
+CA-Gb2efbe00fb,1822492.0,"The Hillman Group, Inc.",HLMN,1,review,,claude,3
+NY-Gcfbc60f0ba,943452.0,Wabtec Corporation,WAB,1,review,,claude,3
+CA-G32182e1fe2,2488.0,"Xilinx, Inc.",AMD,1,review,,claude,3
+CA-G89dfb76d42,80424.0,Zenlen Inc. (Native),PG,1,review,,claude,3
+CA-Ge76e5b24c9,1567094.0,"Zimeno, Inc. dba Monarch Tractor (Lawrence)",CNH,1,review,,claude,3
+NY-G3efd466c5c,921738.0,"IPRO (Island Peer Review Organization, Inc.)",PENN,0,review,,claude,3
+NY-G7b7eaa6751,1397187.0,lululemon usa inc.,LULU,1,review,,claude,3
+WA-G431da964b9,1397187.0,lululemon usa inc.,LULU,1,review,,claude,3
+CA-G74fc9d0d46,64803.0,Omnicare,CVS,1,review,,claude,3
+TX-Gfd647f52b3,763901.0,"AMERICA, INC., d/b/a LIXIL",BPOP,0,review,,claude,3
+CA-G39c6668876,109198.0,Rico Corp. dba D'Addario Woodwinds,TJX,0,review,,claude,3
+CA-G340cecef62,109198.0,Rico Corp. dba D'Addario Woodwinds,TJX,0,review,,claude,3
+CA-G5156b51342,109198.0,Rico Corp. dba D'Addario Woodwinds,TJX,0,review,,claude,3
+CA-Gedf777452b,109198.0,Rico Corp. dba D' Addario Woodwinds,TJX,0,review,,claude,3
+CA-G5b7579070b,109198.0,Rico Corp. dba D'Addario Woodwinds,TJX,0,review,,claude,3
+CA-Gd71323910d,109198.0,Rico Corp. dba D'Addario Woodwinds,TJX,0,review,,claude,3
+CA-G2d3d31aff1,109198.0,Rico Corp. dba D'Addario Woodwinds,TJX,0,review,,claude,3
+CA-Gf55ee6dc63,109198.0,Rico Corp. dba D' Addario Woodwinds,TJX,0,review,,claude,3
+CA-Gae2f3f7a70,109198.0,Rico Corp. dba D'Addario Woodwinds,TJX,0,review,,claude,3
+CA-Gbf923da566,109198.0,Rico Corp. dba D'Addario Woodwinds,TJX,0,review,,claude,3
+CA-Gbb310bb292,109198.0,Rico Corp. dba D'Addario Woodwinds,TJX,0,review,,claude,3
+WA-G1a9611f237,2011286.0,Amentum,AMTM,0,review,,claude,3
+CA-G88eb874d6c,313616.0,Epitomics Inc. d/b/a Abcam Milpitas,DHR,0,review,,claude,3
+CA-Gd33ad2deb0,1108524.0,Informatica LLC,CRM,0,review,,claude,3
+CA-G52b49d3cfc,1370946.0,Masonite Corporation,OC,0,review,,claude,3
+TX-G9026842165,1370946.0,Masonite Corporation (Greenville),OC,0,review,,claude,3
+CA-G00d4d2288a,1237831.0,"NuVasive, Inc.",GMED,1,review,,claude,3
+CA-G8f1c8597eb,1744489.0,Pixar,DIS,1,review,,claude,3
+CA-Ga5ad576982,1744489.0,Pixar,DIS,1,review,,claude,3
+CA-Gbb79108fa4,48287.0,Steelcase Inc.,HNI,0,review,,claude,3
+CA-G01360e7ed3,1411579.0,"CHW Entertainment, Inc. dba The Shout! House and Garage",AMC,0,review,,claude,3
+TX-Ge347aa9369,6201.0,American Airlines-SRO,AAL,1,review,,claude,3
+CA-G4954ca9214,1346830.0,"CARGO Therapeutics, Inc.",TVRD,0,review,,claude,3
+CA-G39e3703ee7,1346830.0,"CARGO Therapeutics, Inc.",TVRD,0,review,,claude,3
+CA-G1dfa55e981,1692415.0,"Copan Diagnostics, Inc.",CODX,0,review,,claude,3
+NY-Ge77437c048,1289490.0,Life Storage d/b/a Extra Space Storage Inc.,EXR,0,review,,claude,3
+TX-G42e7b06b99,51143.0,International Business Machines-Coppell,IBM,1,review,,claude,3
+CA-G4e7eaad1b8,1944048.0,Johnson & Johnson Consumer Inc. dba Kenvue,KVUE,1,review,,claude,3
+TX-G6514e6c310,723125.0,"ICON Technology, Inc.",MU,0,review,,claude,3
+WA-G3b98cc352b,926423.0,"INDUS Technology, Inc.",MIND,0,review,,claude,3
+CA-Gcfe93e97dd,1399520.0,TAO Group Hospitality,STKS,0,review,,claude,3
+CA-G0f990dbcaa,1399520.0,TAO Group Hospitality,STKS,0,review,,claude,3
+NY-G4988f688d6,911216.0,Paladin Technologies (USA) Inc.,PTN,0,review,,claude,3
+NY-Gf14a184f7c,1034054.0,"JAF Communications, Inc. d/b/a The Messenger",SBAC,0,review,,claude,3
+CA-G356ba5c8c3,1094324.0,"Shift Technologies, Inc.",SIFY,0,review,,claude,3
+CA-Gf4e70c5e93,92103.0,Southern California Edison Company,SCE-PG,0,review,,claude,3
+CA-Gedecb75185,737758.0,The Toro Company,TTC,1,review,,claude,3
+CA-Ga510ccd846,1819133.0,"Sangamo Therapeutics, Inc.",TNGX,0,review,,claude,3
+CA-Gac44eeef29,1819133.0,"Sangamo Therapeutics, Inc.",TNGX,0,review,,claude,3
+CA-Gb08a6aad4c,1819133.0,"Sangamo Therapeutics, Inc.",TNGX,0,review,,claude,3
+NY-G672d900889,1901440.0,"UL, LLC d/b/a UL Solutions",ULS,0,review,,claude,3
+TX-Gd5e7ed32f8,2088896.0,XTO Energy Inc. (Franklin),XE,0,review,,claude,3
+TX-G00399f5600,2088896.0,XTO Energy Inc. (Tyler),XE,0,review,,claude,3
